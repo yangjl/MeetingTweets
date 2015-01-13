@@ -1,0 +1,1000 @@
+422080092920348672  Jan 11 12:58  @vaccandgenes     RT @SahaSurya: Follow #PAGXXII for #plant, #genetics, #microbiome, #assembly, #NGS tweets from @PAGmeeting
+422080097290838016  Jan 11 12:58  @vaccandgenes     RT @SahaSurya: #microbiome RT @KristaTernus: http://bit.ly/1aaE8I7 assembled metagenome and found 42% of ORFs had no known match. #PAGXXII
+422080157080236032  Jan 11 12:58  @JChrisPires      DH: Original paper is on SGSautoSNP (Lorenc et al. 2012 Biology 1:370 ; version that works on polyploids forthcoming #Brassica #PAGXXII
+422080243977826304  Jan 11 12:59  @JChrisPires      RT @plantscience: Transnational infrastructure for plant genomic science "transPlant" project being discussed at #PAGXXII http://bit.ly/1ag8Uwg
+422080301712437248  Jan 11 12:59  @pop_gen_JED      JK identified 137 genomic regions under selection. On average, 3 genes per region. #PAGXXII
+422080670676951042  Jan 11 13:00  @hutchins_e       RT @noituloveand: would love to see more talk of assembly metrics other than N50 and contig per #gage and  @assemblathon #pagxxii
+422081007823503360  Jan 11 13:02  @hyphaltip        Rumen metagenome and microbiomes. desc of exchanhing cow and reindeer rumen microbiomes. #PAGXXII
+422081053495263232  Jan 11 13:02  @JChrisPires      DH: #Gene conversion common in #Arabidopsis so now also see in #Brassica (note: "conversion" could be homoeologous exchanges) #PAGXXII
+422081086684803072  Jan 11 13:02  @KTInvasion       Angela Baldo: ridiculously reticulate grape sub genus phylogeny #PAGXXII
+422081234294951937  Jan 11 13:03  @hyphaltip        RT @KristaTernus: Not all bugs in the rumen are culturable or known. Ruminomics assembled metagenome and found 42% of ORFs had no known match. #PAGXXII
+422081266729512960  Jan 11 13:03  @pop_gen_JED      JK see selective sweep, but no clear coding mutation, possibly regulatory in nature #PAGXXII
+422081333049827328  Jan 11 13:03  @rbuels           Nice to be at #PAGXXII to get some perspective, challenging to maintain it working at home.
+422081390872522752  Jan 11 13:03  @noituloveand     KM: shout out to #PINEMAP http://pinemap.org #pagxxii
+422081461890473984  Jan 11 13:03  @plantscience     Using the open source ISA metadata tracking tools concept http://isa-tools.org/ for crop phenotype data discussed by Hanna Cweik #PAGXXII
+422081494643769344  Jan 11 13:04  @LGCGenomics      Setting up at #PAGXXII will you be here? Make sure to visit us at booth 302-304
+422081620229627904  Jan 11 13:04  @JChrisPires      DH: #Brassica SNP matrix sees lots of variation among #canola varieties - associate with #plant #domestication #genome #Evolution #PAGXXII
+422081814329450496  Jan 11 13:05  @pop_gen_JED      JK also see selection in EDAR. See nonsynonomous mutations #PAGXXII
+422081841625976833  Jan 11 13:05  @katatonikkat     RT @rbuels: In the semantic/ontology session at #PAGXXII.  Standing room only. These technologies are the future.
+422081934156505088  Jan 11 13:05  @KristaTernus     John Williams is also looking at #microbiome & methane output, twin differences, rumen content transfer between deer and cow #PAGXXII
+422082154504286208  Jan 11 13:06  @infoecho         Kristian Stevens is reporting the on-going effort on “conifer” “mega”-genome sequencing #PAGXXII
+422082247433256960  Jan 11 13:07  @hyphaltip        http://ruminomics.eu to check out this Rumen seq projects. #PAGXXII
+422082390375165952  Jan 11 13:07  @noituloveand     Kristian Stevens: progress report on conifer seq activities in douglas fir, lob and sugar pine #pagxxii
+422082402773512192  Jan 11 13:07  @JChrisPires      DH: Which #gene show signatures of selection? #GWAS #BigList #Brassica #PAGXXII
+422082635079225344  Jan 11 13:08  @KTInvasion       AB: grape diversification 28 mya. Divergence of Eurasian/N American grape 11 mya. Hypothesis: started in N A, spread to Europe #PAGXXII
+422082655266426880  Jan 11 13:08  @noituloveand     KS: sugar pine estimates @ 33.5GB.  good luck.  #pagxxii
+422082706692792320  Jan 11 13:08  @infoecho         KS: the “Mega”-genomes of Conifers: Douglas fir(19Gb) + loblly pine (22Gb), sugar pine (33.5G) #PAGXXII
+422082811441344513  Jan 11 13:09  @JChrisPires      DH: #Gene conversion may be an untapped source of variation for plant breeders - @Dave.Edwards@uq.edu.au for questions #Brassica #PAGXXII
+422082929120911361  Jan 11 13:09  @LGCGenomics      Building our banner at #PAGXXII #LGCMAS what do you think? http://t.co/GW7d21thyG
+422083158255751168  Jan 11 13:10  @infoecho         KS: using a strategy to assembly to super-read then use OLC to assemble “mega”-genome together. #PAGXXII
+422083229340803072  Jan 11 13:10  @tanghaibao       Qingyi Yu: diminutive papaya mutant. Map-based cloning found a large deletion in MMS19 which is conserved in yeast and hum #PAGXXII
+422083248290668544  Jan 11 13:11  @VirginiaGewin    Grape evolution is hard to figure out. We think North America is where originated bc most genetic diversity is found, Angela Baldo #PAGXXII
+422083375101657088  Jan 11 13:11  @JohnMulley       RT @KTInvasion: AB: grape diversification 28 mya. Divergence of Eurasian/N American grape 11 mya. Hypothesis: started in N A, spread to Europe #PAGXXII
+422083525408329728  Jan 11 13:12  @tanghaibao       @JChrisPires I could not get to see the Brassica talks. Room is too packed. #PAGXXII
+422083657096892417  Jan 11 13:12  @KTInvasion       AB: glacial refuge in south eastern USA. (So can we thank Florida for wine?) #PAGXXII
+422083706040242176  Jan 11 13:12  @JChrisPires      RT @VirginiaGewin: Grape evolution is hard to figure out. We think North America is where originated bc most genetic diversity is found, Angela Baldo #PAGXXII
+422083839435878400  Jan 11 13:13  @fstrozzi         #MicrobiomeWorkshop Second speaker is Frèdèric Boyer from LECA-CNRS on DNA Metabarcoding #PAGXXII
+422083880993058816  Jan 11 13:13  @noituloveand     Interesting. MT @VirginiaGewin: Grape evolis hard to figure out. Orig. in N. America bc most genetic diversity found #PAGXXII
+422083932239036416  Jan 11 13:13  @Alum_Canyon      Under higher atmospheric [CO2] is carbonic anhydrase moot? Not if high heat and drought close stomata & limit CO2. @DanforthCenter #PAGXXII
+422083991391309824  Jan 11 13:14  @fstrozzi         RT @KristaTernus: John Williams is also looking at #microbiome & methane output, twin differences, rumen content transfer between deer and cow #PAGXXII
+422084004683063297  Jan 11 13:14  @JChrisPires      Next up is @Woodhouse_M for #Brassica #PAGXXII on #brassica rapa as a model system for studying heritable #genome dominance
+422084084249026560  Jan 11 13:14  @fstrozzi         RT @hyphaltip: http://ruminomics.eu to check out this Rumen seq projects. #PAGXXII
+422084090285023233  Jan 11 13:14  @jamesmalone      RT @rbuels: In the semantic/ontology session at #PAGXXII.  Standing room only. These technologies are the future.
+422084097755086848  Jan 11 13:14  @vaccandgenes     RT @KristaTernus: John Williams is also looking at #microbiome & methane output, twin differences, rumen content transfer between deer and cow #PAGXXII
+422084209725812736  Jan 11 13:14  @noituloveand     Def dig the use of #CEGMA for assembly eval, but only 248 found by KS in pine v1.01.  good/bad/ok? #pagxxii
+422084220924612608  Jan 11 13:14  @pop_gen_JED      Ben Hayes: low effective pop size of 100 in Holstein but polymorphisms every 150 kbp #PAGXXII
+422084379825827840  Jan 11 13:15  @JChrisPires      Review by @Woodhouse_M of #polyploid #genome #evolution in #Brassica and #Arabidopsis #PAGXXII
+422084381230907392  Jan 11 13:15  @KTInvasion       AB: grape morphology very plastic. Geography and morphology not very diagnostic #PAGXXII
+422084484994183168  Jan 11 13:15  @SahaSurya        Shd be fun to assemble! RT @infoecho: KS: the “Mega”-genomes of Conifers: Douglas fir(19Gb), loblly pine (22Gb), sugar pine (33.5G) #PAGXXII
+422084611787599872  Jan 11 13:16  @BaxterTwi        I will be talking about our first experiments with the new @DanforthCenter phenotyping facility Mon evening #PAGXXII http://pag14.mapyourshow.com/5_0/sessions/sessiondetails.cfm?ScheduledSessionID=1BA9C8&CFID=15316059&CFTOKEN=b200d005a0c5a50a-1B41D406-D077-382D-BA1F6A6095E1DFE9
+422084775466131456  Jan 11 13:17  @AaronListon      "room packed" "standing room only" Happy to be following #pagxxii from my couch @ home :-)
+422084855086600192  Jan 11 13:17  @JChrisPires      As #Brassica has whole #genome triplication (WGT) there are "dominant" and "submissive" subgenomes by @Woodhouse_M #PAGXXII
+422084875298942976  Jan 11 13:17  @DanforthCenter   RT @BaxterTwi: I will be talking about our first experiments with the new @DanforthCenter phenotyping facility Mon evening #PAGXXII http://pag14.mapyourshow.com/5_0/sessions/sessiondetails.cfm?ScheduledSessionID=1BA9C8&CFID=15316059&CFTOKEN=b200d005a0c5a50a-1B41D406-D077-382D-BA1F6A6095E1DFE9
+422085016525361152  Jan 11 13:18  @JChrisPires      #Brassica least-fractionated (LF) #genome is "dominant" subgenomes by both gene content and expression @Woodhouse_M #PAGXXII
+422085023886368768  Jan 11 13:18  @pop_gen_JED      BH looking at runs of homozygosity to predict Ne. Length determines number of gens ago for this Ne #PAGXXII
+422085047613538304  Jan 11 13:18  @noituloveand     KS: optimize assembly k by numbers of distinct kmers used.  No likelihood measure e.g., Ghodsi et al 2013?  #pagxxii
+422085100306591744  Jan 11 13:18  @KristaTernus     Frederic Boyer is studying rumen #microbiome with "DNA metabarcoding" & targeted amplification of conserved regions. #PAGXXII
+422085303474466816  Jan 11 13:19  @JChrisPires      If compare #Brassica and #Arabidopsis "dominant" and "submissive" subgenomes can see if "heritable" bias @Woodhouse_M #PAGXXII
+422085338916343808  Jan 11 13:19  @BrettTylerOSU    @markgijzen Abundant science and sun! #PAGXXII
+422085344922591234  Jan 11 13:19  @fstrozzi         FB presenting metabarcoding analysis of rumen exchange experiment between cows and reindeers from http://www.ruminomics.eu project #PAGXXII
+422085392674734080  Jan 11 13:19  @fredChoulet      RT @GenomeBiology: Frederic Choulet: genes at distal regions of wheat chromosomes have more specific expression and reduced alternative splicing #PAGXXII
+422085466356064256  Jan 11 13:19  @SahaSurya        RT @JChrisPires: As #Brassica has whole #genome triplication (WGT) there are "dominant" and "submissive" subgenomes by @Woodhouse_M #PAGXXII
+422085541618663425  Jan 11 13:20  @JChrisPires      #Arabidopsis #genome duplication can be examined after subsequent  whole #genome triplication (WGT) in #Brassica @Woodhouse_M #PAGXXII
+422085621562085376  Jan 11 13:20  @plantimals       RT @BaxterTwi: I will be talking about our first experiments with the new @DanforthCenter phenotyping facility Mon evening #PAGXXII http://pag14.mapyourshow.com/5_0/sessions/sessiondetails.cfm?ScheduledSessionID=1BA9C8&CFID=15316059&CFTOKEN=b200d005a0c5a50a-1B41D406-D077-382D-BA1F6A6095E1DFE9
+422085900302946304  Jan 11 13:21  @BaxterTwi        The Baxter lab is looking for a talented postdoc in the genetics and informatics interface. Join us! #PAGXXII http://danforthcenter.org/about/careers/jobdescription/postdoctoral-associate---baxter-lab
+422085948122206208  Jan 11 13:21  @JChrisPires      Hi @2footgiraffe - Yes, I am at #PAGXXII now - co-hosting #Brassica session now and speak at comparative genomics session tomorrow morning
+422085957685243905  Jan 11 13:21  @tanghaibao       Qingyi Yu: Autophagy is found in diminutive papaya mutant, due to gene defects involved in CIA complex. #PAGXXII
+422086052610723840  Jan 11 13:22  @noituloveand     RT @BaxterTwi: The Baxter lab is looking for a talented postdoc in the genetics and informatics interface. Join us! #PAGXXII http://danforthcenter.org/about/careers/jobdescription/postdoctoral-associate---baxter-lab
+422086219208462336  Jan 11 13:22  @JChrisPires      Hollister et al 2011 PNAS showed proximal silenced transposable elements had effect in #Arabidopsis hybrids-now look in #Brassica #PAGXXII
+422086267971461120  Jan 11 13:23  @KTInvasion       @gregbaute now up to tell us all about selection and diversity in domesticated sunflower #PAGXXII (pronounced bow-tee, jsyk)
+422086660700925952  Jan 11 13:24  @JChrisPires      Do #Brassica rapa show transposable element pattern like seen in #Arabidopsis and correlated to #geneome dominance? @Woodhouse_M #PAGXXII
+422086685888106496  Jan 11 13:24  @qhienle          #isatab as a #standard format for #phenotype #data exchanges? #transplant #pagxxii
+422086812643753984  Jan 11 13:25  @SahaSurya        @fstrozzi @KristaTernus Thanks for tweets from the #microbiome workshop. Hope more tweeple jump in! #PAGXXII
+422086874929176576  Jan 11 13:25  @centgg           RT @assemblathon: #PAGXXII is the hashtag to be following right now.
+422086906977873920  Jan 11 13:25  @pop_gen_JED      BH see sharp declines in Ne that line up with domestication, breed formation, and use of artificial insemination #PAGXXII
+422086934366662657  Jan 11 13:25  @JChrisPires      Yes, #Arabidopsis #genome dominance has heritable component in #Brassica rapa with additional #polyploidy ! @Woodhouse_M #PAGXXII
+422086990087979009  Jan 11 13:25  @rbuels           Sook Jung demonstrating a very nice looking Cross Assist web tool in phenotype session #PAGXXII
+422087152730906624  Jan 11 13:26  @vaccandgenes     RT @KristaTernus: Frederic Boyer is studying rumen #microbiome with "DNA metabarcoding" & targeted amplification of conserved regions. #PAGXXII
+422087235756756992  Jan 11 13:26  @VirginiaGewin    So much diversity in wild species it's almost problematic to use in breeding bc so difficult to evaluate, @gregbaute PAGXXII
+422087239883964416  Jan 11 13:26  @JChrisPires      If #genome dominance is heritable aross whole #genome duplications, then predict parental TE load difference matters @Woodhouse_M #PAGXXII
+422087331428839424  Jan 11 13:27  @KristaTernus     Frederic is showing reindeer #microbiome data and taxonomic changes before & after receiving cow rumen contents. #PAGXXII
+422087386885939200  Jan 11 13:27  @pop_gen_JED      BH given Ne history, can genetic gains be sustained? Did simulations to test #PAGXXII
+422087464098856960  Jan 11 13:27  @JChrisPires      Can test heritability of #genome dominance in natural and resynthesized polyploids in  #Brassica @Woodhouse_M #PAGXXII
+422087469958316032  Jan 11 13:27  @infoecho         KS: constructing super-read: k-mer overlap graph -> find a path between the pairs as “super-reads” #PAGXXII
+422087519560146944  Jan 11 13:28  @KTInvasion       @gregbaute wild relatives used in the past for sunflower improvement, still hold much promise. Surveyed 22 wild species #PAGXXII
+422087851358953473  Jan 11 13:29  @JChrisPires      Hypothesis: transposon load as a "rheostat" for #gene expression - fun idea by @Woodhouse_M on #polyploid #genome #Brassica #PAGXXII
+422088094578266113  Jan 11 13:30  @pop_gen_JED      BH large ancestral pop size allows for sustained gains from selection #PAGXXII
+422088139696394241  Jan 11 13:30  @SahaSurya        RT @JChrisPires: Hypothesis: transposon load as a "rheostat" for #gene expression - fun idea by @Woodhouse_M on #polyploid #genome #Brassica #PAGXXII
+422088345305366528  Jan 11 13:31  @KristaTernus     There is no clear influence of host species once rumen #microbiome is established, but these are initial results. #PAGXXII
+422088382638870528  Jan 11 13:31  @2footgiraffe     @JChrisPires Sweet. I"m going to follow the feed when I can. you talking broccoli - #cool. #PAGXXII
+422088600616841217  Jan 11 13:32  @JChrisPires      Good "chicken and egg" question for @Woodhouse_M on which came first - fractionation or gene silencing ? #Brassica #PAGXXII
+422088726336901120  Jan 11 13:32  @2footgiraffe     Hey #edchat #scichat - you into plant and animal genes? Check out http://www.intlpag.org/ Con going on now. Follow #PAGXXII
+422088741184749568  Jan 11 13:32  @VirginiaGewin    Material in genebanks isn't all the diversity out there, more collection going on,  @gregbaute #PAGXXII
+422088979723198464  Jan 11 13:33  @JChrisPires      Next up: Mathieu Blanchette (MB) on recent @Nature #Genetics paper; a #Brassica #ENCODE - like project #phylogenetic footprinting #PAGXXII
+422089152629198848  Jan 11 13:34  @noituloveand     KS: data reduction for large genome NGS assembly via smoothed k-mer overlap graph seems cool.  software?  #pagxxii
+422089455915118592  Jan 11 13:35  @pop_gen_JED      BH See Dryer, Macleod, Hayes, Heredity 2013 for simulations of use of sequence data in genomic selection #PAGXXII
+422089614187180032  Jan 11 13:36  @KTInvasion       @gregbaute genomic info contributes to collection efforts to maximize diversity (global crop diversity trust) #PAGXXII
+422089732114243584  Jan 11 13:36  @JChrisPires      MB: See Haudry et al 2013 @Nature #Genetics 45: 891 Atlas of over 90,000 CNS - insight into regulatory regions #Brassica #ENCODE #PAGXXII
+422089764112986114  Jan 11 13:36  @TinaBarsby_NIAB  RT @KristaTernus: Not all bugs in the rumen are culturable or known. Ruminomics assembled metagenome and found 42% of ORFs had no known match. #PAGXXII
+422089853530955776  Jan 11 13:37  @VirginiaGewin    Genomics could inform future gap analyses to collect germplasm for gene banks, @gregbaute #PAGXXII
+422089933868646400  Jan 11 13:37  @JChrisPires      MB: We sequenced 3 more #genome - Aethionema, Sisymbrium, and Leavenworthia in Haudry et al 2013 @Nature #Genetics 45:891 #Brassica #PAGXXII
+422089980698054656  Jan 11 13:37  @DJ_de_Koning     Ben Hayes: advantage of genoMic selection on sequencing data compared to 50k SNP between 1,5 and 30%! #PAGXXII
+422090021030879232  Jan 11 13:37  @TinaBarsby_NIAB  @Dr_JamesLogan @BBCTheVoiceUK well every other plant scientist I know Di at #PAGXXII  so might as well
+422090044296691713  Jan 11 13:38  @iowensis         RT @noituloveand: KM: shout out to #PINEMAP http://pinemap.org #pagxxii
+422090133161377793  Jan 11 13:38  @vaccandgenes     RT @KristaTernus: Frederic is showing reindeer #microbiome data and taxonomic changes before & after receiving cow rumen contents. #PAGXXII
+422090134289670144  Jan 11 13:38  @vaccandgenes     RT @KristaTernus: There is no clear influence of host species once rumen #microbiome is established, but these are initial results. #PAGXXII
+422090135916642304  Jan 11 13:38  @JChrisPires      MB: Did 9-way whole #genome multiple alignment and PhastCons to find CNA in Haudry et al 2013 @Nature #Genetics 45: 891 #Brassica #PAGXXII
+422090192464261121  Jan 11 13:38  @tjsharpton       RT @SahaSurya: #microbiome RT @KristaTernus: http://bit.ly/1aaE8I7 assembled metagenome and found 42% of ORFs had no known match. #PAGXXII
+422090202572541952  Jan 11 13:38  @JChrisPires      RT @DJ_de_Koning: Ben Hayes: advantage of genoMic selection on sequencing data compared to 50k SNP between 1,5 and 30%! #PAGXXII
+422090235204210688  Jan 11 13:38  @JChrisPires      RT @VirginiaGewin: Genomics could inform future gap analyses to collect germplasm for gene banks, @gregbaute #PAGXXII
+422090269874323456  Jan 11 13:38  @JChrisPires      RT @KTInvasion: @gregbaute genomic info contributes to collection efforts to maximize diversity (global crop diversity trust) #PAGXXII
+422090295795122176  Jan 11 13:39  @tjsharpton       RT @SahaSurya: Follow #PAGXXII for #plant, #genetics, #microbiome, #assembly, #NGS tweets from @PAGmeeting
+422090301625233408  Jan 11 13:39  @JChrisPires      RT @pop_gen_JED: BH See Dryer, Macleod, Hayes, Heredity 2013 for simulations of use of sequence data in genomic selection #PAGXXII
+422090333875236864  Jan 11 13:39  @JChrisPires      RT @noituloveand: KS: data reduction for large genome NGS assembly via smoothed k-mer overlap graph seems cool.  software?  #pagxxii
+422090368398532608  Jan 11 13:39  @JChrisPires      RT @VirginiaGewin: Material in genebanks isn't all the diversity out there, more collection going on,  @gregbaute #PAGXXII
+422090370839638016  Jan 11 13:39  @plantscience     RT @JChrisPires: Next up: Mathieu Blanchette (MB) on recent @Nature #Genetics paper; a #Brassica #ENCODE - like project #phylogenetic footprinting #PAGXXII
+422090388543782912  Jan 11 13:39  @plantscience     RT @JChrisPires: MB: See Haudry et al 2013 @Nature #Genetics 45: 891 Atlas of over 90,000 CNS - insight into regulatory regions #Brassica #ENCODE #PAGXXII
+422090397599277056  Jan 11 13:39  @JChrisPires      RT @2footgiraffe: Hey #edchat #scichat - you into plant and animal genes? Check out http://www.intlpag.org/ Con going on now. Follow #PAGXXII
+422090438439231488  Jan 11 13:39  @Alum_Canyon      @hartwell_james on Kalanchoë-a Model CAM Species #PAGXXII. See more at http://cambiodesign.org
+422090479685992448  Jan 11 13:39  @tamelakim        #PAGXXII is taking over @TCRHotel and buzzing with eager scientists.
+422090482345209856  Jan 11 13:39  @JChrisPires      RT @KTInvasion: @gregbaute now up to tell us all about selection and diversity in domesticated sunflower #PAGXXII (pronounced bow-tee, jsyk)
+422090527551389696  Jan 11 13:39  @JChrisPires      RT @tanghaibao: Qingyi Yu: Autophagy is found in diminutive papaya mutant, due to gene defects involved in CIA complex. #PAGXXII
+422090562661916672  Jan 11 13:40  @JChrisPires      RT @BaxterTwi: The Baxter lab is looking for a talented postdoc in the genetics and informatics interface. Join us! #PAGXXII http://danforthcenter.org/about/careers/jobdescription/postdoctoral-associate---baxter-lab
+422090576968691712  Jan 11 13:40  @tanghaibao       James Hartwell: CAM plants are superstars in water efficiency. Dark reaction occurs at night, regulated by circadian clock #PAGXXII
+422090680052092929  Jan 11 13:40  @fstrozzi         Chris Creevy third speaker of the #Microbiome Workshop talking about metatranscriptomics analysis of rumen content @Hairy_Llama #PAGXXII
+422090845425127424  Jan 11 13:41  @noituloveand     #MaSuRCA assembler: http://www.genome.umd.edu/masurca.html #pagxxii
+422090892745265152  Jan 11 13:41  @pop_gen_JED      BH if predict within breed, seq data improves genomic predictions by 2%. Improvement might be higher if multiple breeds in training #PAGXXII
+422091181036560384  Jan 11 13:42  @JChrisPires      MB: Why CNS conserved across mustards? Mutation cold spot? error? To answer, go from comparative to population #genomics #Brassica #PAGXXII
+422091364583497729  Jan 11 13:43  @JChrisPires      MB: phylogenetic distribution of CNS across Brassicaceae - Haudry et al 2013 @Nature #Genetics 45: 891 #Arabidopsis #Brassica #PAGXXII
+422091628426170368  Jan 11 13:44  @tanghaibao       James Hartwell: Kalanchoe, a CAM plant, is selected since it has efficient stable transformation method. Contig N50 6K, scaff 43K #PAGXXII
+422091792591249408  Jan 11 13:45  @noituloveand     #MaSuRCA assembly of pine genome taking 3 months, but outperforming others in #gage, exc. ALLPATHS.  #pagxxii
+422091795162337280  Jan 11 13:45  @JChrisPires      MB: Different types of CNS cluster around different specific genes - see Haudry et al 2013 @Nature #Genetics 45: 891 #Brassica #PAGXXII
+422091843778527232  Jan 11 13:45  @VirginiaGewin    If want to feed world, use 7 million accessions in genebanks, need to bridge genomics & genebanks. It’s not happening, van Hintum #PAGXXII
+422091972187136000  Jan 11 13:45  @hutchins_e       "@noituloveand: #MaSuRCA assembler: http://www.genome.umd.edu/masurca.html #pagxxii for the 22 GBP pine genome @evilsmaug
+422092008476250112  Jan 11 13:45  @fstrozzi         CC: The higher the RIN, the better for metatranscriptomics, RIN=10 is desirable. So leave your samples alone as much as possible #PAGXXII
+422092047659433984  Jan 11 13:46  @VirginiaGewin    Anticipating developments in genomics is low on the priority list in most genebanks, Theo van Hintum #PAGXXII
+422092084686753792  Jan 11 13:46  @noituloveand     Aleksey Zimin now talking about #MaSuRCA performance at #pagxxii
+422092116257304576  Jan 11 13:46  @infoecho         Aleksey Zimin: Published Loblolly Pine 1.0 assembly, MaSuRCA 1.8.3, N50 contig 8.2kb, N50 scffold size 30kb (66kb) #PAGXXII
+422092260151279616  Jan 11 13:46  @SahaSurya        RT @infoecho: Aleksey Zimin: Published Loblolly Pine 1.0 assembly, MaSuRCA 1.8.3, N50 contig 8.2kb, N50 scffold size 30kb (66kb) #PAGXXII
+422092523310313472  Jan 11 13:47  @JChrisPires      MB: VEGI project is cool acronym: Value-directed Evolutionary Genomics Initiative - see http://132.216.16.140/ #Brassica #PAGXXII
+422092634731999232  Jan 11 13:48  @DJ_de_Koning     RT @pop_gen_JED: BH See Dryer, Macleod, Hayes, Heredity 2013 for simulations of use of sequence data in genomic selection #PAGXXII
+422092682052120577  Jan 11 13:48  @VirginiaGewin    A major step forward would be to standardize genebank documentation, GRIN Global is ongoing and promising, van Hintum, #PAGXXII
+422092705229848576  Jan 11 13:48  @fstrozzi         CC: Metatranscriptomics analysis done using Trinity and then Bowtie for mapping on eggNOG conserved sequences to get expr values. #PAGXXII
+422092801833066496  Jan 11 13:49  @tanghaibao       James Hartwell: SOLiD RNA-seq confirms induction and diurnal regulation of known CAM genes and identifies CAM-specific gene copy. #PAGXXII
+422092808111927296  Jan 11 13:49  @JChrisPires      MB: CNS associate with Chip-Seq data - within and inter-species purifying selection Haudry et al 2013 NatGen 45: 891 #Brassica #PAGXXII
+422092857428557825  Jan 11 13:49  @fredChoulet      RT @GenomeBiology: Jane Rogers: now possible to analyze differential gene expression of sub genomes in wheat #PAGXXII
+422092947065020416  Jan 11 13:49  @SahaSurya        RT @fstrozzi: CC: Metatranscriptomics analysis done using Trinity and then Bowtie for mapping on eggNOG conserved sequences to get expr values. #PAGXXII
+422092970012061696  Jan 11 13:49  @JChrisPires      MB: Within CNS, B-box pairs are common AND evenly spaced - periodicity of double helix! Haudry et al 2013 NatGen 45: 891 #Brassica #PAGXXII
+422093101096656896  Jan 11 13:50  @DJ_de_Koning     And more around the 2% level for Ne around the 100 #PAGXXII
+422093289886453760  Jan 11 13:50  @KristaTernus     Only a handful of genomes belonging to rumen microorganisms are available in reference databases. #microbiome #PAGXXII
+422093300552564736  Jan 11 13:50  @JChrisPires      MB: Conclude on importance of comparative #genomics of closely related species!#bioinformatics #Brassica #PAGXXII
+422093310295957504  Jan 11 13:51  @noituloveand     AZ: 100X reduction using super-reads in #MaSuRCA #pagxxii
+422093710520619008  Jan 11 13:52  @plaza_genomics   Thanks to @GenomeBiology @tanghaibao @JChrisPires , and soon @YvesVandePeer ;-), for the #PAGXXII plant tweets!
+422093895749472257  Jan 11 13:53  @fstrozzi         CC: With metatranscriptomics analyses found Bamboo mRNA inside sheep rumen due to animals chewing the fence! #Microbiome #PAGXXII
+422094067778875392  Jan 11 13:54  @JChrisPires      Next up: Kim Osman (KO) Univ of Birmingham-Proteomic analysis on axis-associated proteins from #Brassica to #Arabidopis #meiosis #PAGXXII
+422094210204831746  Jan 11 13:54  @tanghaibao       James Hartwell: Kalanchoe loss-of-function lines in key enzymes in CAM pathway and circadian control (PPCK knockout) #PAGXXII
+422094262079979520  Jan 11 13:54  @rbuels           Lukas Mueller going over web infrastructure for Cassava project.  Strong connection to phenotype data gathering in the field. #PAGXXII
+422094320377020418  Jan 11 13:55  @vaccandgenes     RT @fstrozzi: Chris Creevy third speaker of the #Microbiome Workshop talking about metatranscriptomics analysis of rumen content @Hairy_Llama #PAGXXII
+422094324932022273  Jan 11 13:55  @vaccandgenes     RT @KristaTernus: Only a handful of genomes belonging to rumen microorganisms are available in reference databases. #microbiome #PAGXXII
+422094329180852225  Jan 11 13:55  @vaccandgenes     RT @fstrozzi: CC: With metatranscriptomics analyses found Bamboo mRNA inside sheep rumen due to animals chewing the fence! #Microbiome #PAGXXII
+422094368095227905  Jan 11 13:55  @JChrisPires      KO investigating meiotic recombination & the chromosome axis in #Brassica and #Arabidopis #meiosis synaptonemal complex=SC #PAGXXII
+422094418414276609  Jan 11 13:55  @SahaSurya        RT @rbuels: Lukas Mueller going over web infrastructure for Cassava project.  Strong connection to phenotype data gathering in the field. #PAGXXII
+422094445979267072  Jan 11 13:55  @JChrisPires      RT @rbuels: Lukas Mueller going over web infrastructure for Cassava project.  Strong connection to phenotype data gathering in the field. #PAGXXII
+422094485560901632  Jan 11 13:55  @JChrisPires      RT @tanghaibao: James Hartwell: Kalanchoe loss-of-function lines in key enzymes in CAM pathway and circadian control (PPCK knockout) #PAGXXII
+422094659951677440  Jan 11 13:56  @KristaTernus     Among many interesting findings, Chris Creevey confirmed sheep were eating wood from stalls with #metagenomics. #PAGXXII
+422094836980649986  Jan 11 13:57  @JChrisPires      KO using co-immunoprecipitation (Co-IP) of meiotic protein complexes - ASY1 in #Brassica and #Arabidopis #meiosis #PAGXXII
+422094862050013184  Jan 11 13:57  @rbuels           Trevor Rife showing a good command of UI design with his Field Book field phenotyping Android app #PAGXXII
+422094878697586688  Jan 11 13:57  @Farrell__JD      RT @assemblathon: #PAGXXII is the hashtag to be following right now.
+422095042463801344  Jan 11 13:57  @pop_gen_JED      RT @KristaTernus: Only a handful of genomes belonging to rumen microorganisms are available in reference databases. #microbiome #PAGXXII
+422095096738091009  Jan 11 13:58  @DrHikov          Join a world leading team in Australia! 2 postdoc positions on offer @UQ to work in sorghum #genomics @QAAFI #PAGXXII http://t.co/8AnF2Ql6Tw
+422095403698233344  Jan 11 13:59  @Alum_Canyon      Bernard Wone on functional genomics of CAM in Ice Plant @unevada #PAGXXII http://cambiodesign.org
+422095635131543552  Jan 11 14:00  @KristaTernus     Chris Creevey says species ID and functional annotation are huge problems for rumen microbes. #moregenomesneeded #PAGXXII
+422095753993916416  Jan 11 14:00  @pop_gen_JED      @VirginiaGewin can they rule out admixture in North America? #PAGXXII
+422096011507412993  Jan 11 14:01  @JChrisPires      KO approach - see Osman et al 2013 Methods Biol & 2011 New Phytologist 190: 523 #Brassica and #Arabidopis #meiosis  #PAGXXII
+422096026661847040  Jan 11 14:01  @Alum_Canyon      Follow @Alum_Canyon for news from #PAGXXII
+422096058546532352  Jan 11 14:01  @thepoliticalcat  RT @JChrisPires: KO using co-immunoprecipitation (Co-IP) of meiotic protein complexes - ASY1 in #Brassica and #Arabidopis #meiosis #PAGXXII
+422096098623094784  Jan 11 14:02  @xyztal           RT @VirginiaGewin: Genomics could inform future gap analyses to collect germplasm for gene banks, @gregbaute #PAGXXII
+422096180546252800  Jan 11 14:02  @tanghaibao       Bernie Wone: ice plant can do both C3 and CAM. Current assembly ~87% genic completeness. See poster using PacBiio for assembly. #PAGXXII
+422096263421497344  Jan 11 14:02  @2footgiraffe     RT @Alum_Canyon: Follow @Alum_Canyon for news from #PAGXXII
+422096264423936000  Jan 11 14:02  @VirginiaGewin    To live up to expectations of users in genomics era, genebanks need to be involved in joint research projects, van HIntum #PAGXXII
+422096366404259841  Jan 11 14:03  @JChrisPires      KO: two key proteins: ASY3 and PCh2/TRIP13-like protein in #Brassica and #Arabidopis -see Jan Higgins talk in recombination trw at #PAGXXII
+422096519031193600  Jan 11 14:03  @pop_gen_JED      Holly Neibergs: pulled controls from nearby calf houses from BRD cases. Both should be exposed #PAGXXII
+422096646546022400  Jan 11 14:04  @JChrisPires      KO: Predicting Protein Interaction networks - inferred interactome - Yang et al 2012 FIPS #Brassica and #Arabidopis #meiosis #PAGXXII
+422096820890644480  Jan 11 14:04  @JChrisPires      KO: Predicting Protein Interaction networks/ interactome 2nd tool http://string-db.org #Brassica and #Arabidopis #meiosis #PAGXXII
+422096960661635072  Jan 11 14:05  @xyztal           Genetic resources are useful, pretty, and tasteful.  They make up the delicious food on our plate, van Hintum #PAGXXII
+422096970035916800  Jan 11 14:05  @plantscience     Great talk by Trevor Rife on the superb field book app http://www.wheatgenetics.org/field-book #PAGXXII
+422097262450184192  Jan 11 14:06  @pop_gen_JED      HN see heritability of BRD around 20%. When locations are combined heritability is 13% #PAGXXII
+422097292230135808  Jan 11 14:06  @theChestReg      RT @JChrisPires: KO: Predicting Protein Interaction networks/ interactome 2nd tool http://string-db.org #Brassica and #Arabidopis #meiosis #PAGXXII
+422097305286623232  Jan 11 14:06  @tanghaibao       Bernie Wone: JTK-cycle algorithm and model-based clustering on 72h transcriptome to find rhythmic genes. #PAGXXII
+422097646493245440  Jan 11 14:08  @fstrozzi         Last speaker Dirkjan Schokker from Wageningen U talking about the interplay between the #microbiome and the gene expr of the host #PAGXXII
+422097746279923712  Jan 11 14:08  @peachalmond      RT @plantscience: Great talk by Trevor Rife on the superb field book app http://www.wheatgenetics.org/field-book #PAGXXII
+422097755935219713  Jan 11 14:08  @JChrisPires      KO concludes that ASY1 found in #Brassica as BoASY1, now look at TILLING, others Chris Franklin, Sue Armstrong, and James Higgins #PAGXXII
+422098157233635329  Jan 11 14:10  @JChrisPires      @tanghaibao @plaza_genomics @GenomeBiology YES, note taking with tweets is good, but against #PAGXXII social media policy unless permission
+422098269779419136  Jan 11 14:10  @iPlantCollab     RT @plantscience: Transnational infrastructure for plant genomic science "transPlant" project being discussed at #PAGXXII http://bit.ly/1ag8Uwg
+422098349257273344  Jan 11 14:11  @pop_gen_JED      HN known pathogen receptors under BRD GWAS hits #PAGXXII
+422098353338327041  Jan 11 14:11  @iPlantCollab     RT @JChrisPires: some ideas on what to put on your #PAGXXII title slides about twitter permissions given new policy http://cameronneylon.net/blog/some-slides-for-granting-permissions-or-not-in-presentations/ thanks @sahuSurya
+422098406576644096  Jan 11 14:11  @JChrisPires      Rachel Wells (RW) Crop Genetics John Innes Center (JIC) and induced genetic variation for rapeseed desaturation #Brassica #PAGXXII
+422098648994811904  Jan 11 14:12  @JChrisPires      RW: world lubricants inustry is $48.8 billion per anum in April 2011, and 90% could be replaced by bio-lubricants, so #Brassica ! #PAGXXII
+422098803814981632  Jan 11 14:12  @JChrisPires      RW: Rapeseeed fatty acid profile widely useful from salad oil, frying oil to biolubriant #Brassica ! #PAGXXII
+422098858865225728  Jan 11 14:13  @rbuels           Trevor Rife: Field Book software development was outsourced via http://freelance.com!  Seems to have gotten great results.  #PAGXXII
+422098966910476288  Jan 11 14:13  @JChrisPires      RT @fstrozzi: Last speaker Dirkjan Schokker from Wageningen U talking about the interplay between the #microbiome and the gene expr of the host #PAGXXII
+422098987286396928  Jan 11 14:13  @JChrisPires      RT @plantscience: Great talk by Trevor Rife on the superb field book app http://www.wheatgenetics.org/field-book #PAGXXII
+422099015556022272  Jan 11 14:13  @JChrisPires      RT @xyztal: Genetic resources are useful, pretty, and tasteful.  They make up the delicious food on our plate, van Hintum #PAGXXII
+422099031032991744  Jan 11 14:13  @pop_gen_JED      HN identified 129 regions affecting BRD resistance in California data #PAGXXII
+422099038339469312  Jan 11 14:13  @JChrisPires      RT @pop_gen_JED: HN see heritability of BRD around 20%. When locations are combined heritability is 13% #PAGXXII
+422099076662841345  Jan 11 14:13  @JChrisPires      RT @VirginiaGewin: To live up to expectations of users in genomics era, genebanks need to be involved in joint research projects, van HIntum #PAGXXII
+422099106907975680  Jan 11 14:14  @JChrisPires      RT @tanghaibao: Bernie Wone: ice plant can do both C3 and CAM. Current assembly ~87% genic completeness. See poster using PacBiio for assembly. #PAGXXII
+422099459862822912  Jan 11 14:15  @JChrisPires      RW: major QTL for fatty acid biosynthesis well known in #Arabidopsis and #Brassica for erucic, oleic, linoleic acids (FAE, FAD) #PAGXXII
+422099714423545856  Jan 11 14:16  @tanghaibao       @JChrisPires @plaza_genomics @GenomeBiology http://ow.ly/sutWJ No full share; citation, no photos; unless explicitly forbidden #PAGXXII
+422099782157336576  Jan 11 14:16  @JChrisPires      RW: So should be easy to knock out FAD2 in #Brassica but have up to six copies of genes vs. #Arabidopsis - Thanks #polyploidy #PAGXXII
+422099925237641216  Jan 11 14:17  @Floragenex       Nice talk on GWAS with RAD-SEQ in Grasslands Workshop. #PAGXXII
+422099967562358784  Jan 11 14:17  @fstrozzi         DS: Looking at antibiotics effect in chicken #microbiome composition at early life. #PAGXXII
+422100244998782976  Jan 11 14:18  @DrHikov          A beautiful setting in San Diego for #PAGXXII - largest #Ag #genomics conference in the world http://t.co/5mmIo69F0x
+422100260672901120  Jan 11 14:18  @pop_gen_JED      HN 116 regions seen in combined NM and CA dataset. Pathogen prevalence was quite different in NM vs CA #PAGXXII
+422100314280312832  Jan 11 14:18  @fstrozzi         RT @DrHikov: A beautiful setting in San Diego for #PAGXXII - largest #Ag #genomics conference in the world http://t.co/5mmIo69F0x
+422100411663654912  Jan 11 14:19  @JChrisPires      RW: Developed a #Brassica napus (canola) population - see Wells et al 2013 BMC #Plant #Biology 13: 111 #Arabidopsis #PAGXXII
+422100411685011456  Jan 11 14:19  @Alum_Canyon      Xiaohan Yang on comparative genomics of CAM species #PAGXXII @ORNL http://cambiodesign.org
+422100631621345280  Jan 11 14:20  @JChrisPires      RW: Biolube project #Brassica canola #NGS - see Wells et al 2013 BMC #Plant #Biology 13: 111 #Arabidopsis #PAGXXII
+422100806901329920  Jan 11 14:20  @JChrisPires      RW: FAD2 loci number expected to be 2 to 6 in #Brassica canola - see Wells et al 2013 BMC #Plant #Biology 13: 111 #Arabidopsis #PAGXXII
+422100842515140610  Jan 11 14:20  @pop_gen_JED      HN when pathogen prescence is accounted for, GWAS peaks were more consistent across regions #PAGXXII
+422100874358317056  Jan 11 14:21  @infoecho         RT @KristaTernus: The notion of "one genome, one species" is beginning to change. #microbiome #PAGXXII
+422100883216691200  Jan 11 14:21  @JChrisPires      RT @DrHikov: A beautiful setting in San Diego for #PAGXXII - largest #Ag #genomics conference in the world http://t.co/5mmIo69F0x
+422100910274117632  Jan 11 14:21  @JChrisPires      RT @Floragenex: Nice talk on GWAS with RAD-SEQ in Grasslands Workshop. #PAGXXII
+422100962849734656  Jan 11 14:21  @JChrisPires      RT @pop_gen_JED: HN when pathogen prescence is accounted for, GWAS peaks were more consistent across regions #PAGXXII
+422100976753860608  Jan 11 14:21  @JChrisPires      RT @Alum_Canyon: Xiaohan Yang on comparative genomics of CAM species #PAGXXII @ORNL http://cambiodesign.org
+422101026749939712  Jan 11 14:21  @JChrisPires      RT @fstrozzi: DS: Looking at antibiotics effect in chicken #microbiome composition at early life. #PAGXXII
+422101075542302721  Jan 11 14:21  @JChrisPires      RT @rbuels: Trevor Rife: Field Book software development was outsourced via http://freelance.com!  Seems to have gotten great results.  #PAGXXII
+422101291733512193  Jan 11 14:22  @JChrisPires      RT @noituloveand: #MaSuRCA assembly of pine genome taking 3 months, but outperforming others in #gage, exc. ALLPATHS.  #pagxxii
+422101326097420288  Jan 11 14:22  @pop_gen_JED      HN used GSEA gene set enrichment analysis, identified 4 gene sets #PAGXXII
+422101367268712449  Jan 11 14:23  @JChrisPires      RT @noituloveand: AZ: 100X reduction using super-reads in #MaSuRCA #pagxxii
+422101462450446336  Jan 11 14:23  @vaccandgenes     RT @fstrozzi: Last speaker Dirkjan Schokker from Wageningen U talking about the interplay between the #microbiome and the gene expr of the host #PAGXXII
+422101465826885632  Jan 11 14:23  @vaccandgenes     RT @fstrozzi: DS: Looking at antibiotics effect in chicken #microbiome composition at early life. #PAGXXII
+422101537314197504  Jan 11 14:23  @Hairy_Llama      RT @DrHikov: A beautiful setting in San Diego for #PAGXXII - largest #Ag #genomics conference in the world http://t.co/5mmIo69F0x
+422101664221261824  Jan 11 14:24  @tanghaibao       Xiaohan Yang: how many genes needed for C3-to-CAM transition? Start with co-expression modules in Agave and ortholog clades #PAGXXII
+422101668457496576  Jan 11 14:24  @KTInvasion       RT @plantscience: Great talk by Trevor Rife on the superb field book app http://www.wheatgenetics.org/field-book #PAGXXII
+422101847508140032  Jan 11 14:24  @JChrisPires      RW: FAD2 loci number in #Brassica on A1, A5, C1, C5 chromosomes, but in Cabriolet only C5 is functioning BnaFAD2 #Arabidopsis #PAGXXII
+422101985429422080  Jan 11 14:25  @rbuels           Field Book outsourcing might be a bit exceptional; more self contained and conceptually simple than many projects.  But big impact! #PAGXXII
+422102367249510400  Jan 11 14:27  @KTInvasion       RT @tanghaibao: Bernie Wone: ice plant can do both C3 and CAM. Current assembly ~87% genic completeness. See poster using PacBiio for assembly. #PAGXXII
+422102660422963201  Jan 11 14:28  @JChrisPires      RW: Found lines with higher oleic acid in #Brassica than Cabriolet or company lines - over 85% of desired oils #genome to traits #PAGXXII
+422103123931324416  Jan 11 14:30  @JChrisPires      RW: Biolube from model to crop: breeders to genomics to oil industry manufacturing @Cargill @MonsantoCo #Brassica #Arabidopsis #PAGXXII
+422103651495051264  Jan 11 14:32  @tanghaibao       Xiaohan Yang: convergent evolution in regulatory mechanism of Agave, Kalanchoe and ice plant. CAM machinery itself is ancient. #PAGXXII
+422104053095464960  Jan 11 14:33  @idtdna           RT @assemblathon: #PAGXXII is the hashtag to be following right now.
+422104373582262272  Jan 11 14:34  @SahaSurya        @infoecho @fstrozzi @KristaTernus  Yes indeedey. @JChrisPires is doing an awesome job at the #Brassica workshop single-handedly! #PAGXXII
+422104400476127232  Jan 11 14:35  @infoecho         What is the longest contigs that is ever assembled for plant with just one WGS approach? #PAGXXII #mostinterestinggenomeintgeworld
+422104545569697792  Jan 11 14:35  @JChrisPires      Multinational #Brassica Genome Meeting tomorrow in Dover room in 10-noon #PAGXXII
+422104591727992833  Jan 11 14:35  @2footgiraffe     RT @SahaSurya: @infoecho @fstrozzi @KristaTernus  Yes indeedey. @JChrisPires is doing an awesome job at the #Brassica workshop single-handedly! #PAGXXII
+422104681020547073  Jan 11 14:36  @kevinfolta       At the Plant/Animal Genome Conference, day 1, before noon, I've heard "PETABYTE" too many times to be comfortable. #PAGXXII
+422104919328296960  Jan 11 14:37  @VirginiaGewin    Genebanks should increase germplasm distribution. CGIAR goal: double the number of accessions distribution in 2020, Philippe Ellul #PAGXXII
+422105067588550656  Jan 11 14:37  @GaboTuitero      RT @kevinfolta: At the Plant/Animal Genome Conference, day 1, before noon, I've heard "PETABYTE" too many times to be comfortable. #PAGXXII
+422105166100168705  Jan 11 14:38  @fstrozzi         #Microbiome workshop is finished. Thanks to all the speakers for their amazing presentations and to all the attendees! #PAGXXII
+422106030060105728  Jan 11 14:41  @octodude         RT @rbuels: In the semantic/ontology session at #PAGXXII.  Standing room only. These technologies are the future.
+422107020112572416  Jan 11 14:45  @UMNPlantPath     Learn about #UMN-led Triticeae CAP project at #PAGXXII. TODAY at 2:50 Pacific Salon 2
+422107375567269888  Jan 11 14:46  @UMNPlantPath     "Precise Engineering of Plant Genomes" by #UMN Prof Dan Voytas TODAY at #PAGXXII (3:10pm Pacific Salon 4-5)
+422107899305795584  Jan 11 14:49  @UMNPlantPath     Big thanks to @JChrisPires, @kevinfolta & others for tweeting at #PAGXXII!  Esp great for those of us that couldn't make it this year!
+422108318841458688  Jan 11 14:50  @vaccandgenes     RT @fstrozzi: #Microbiome workshop is finished. Thanks to all the speakers for their amazing presentations and to all the attendees! #PAGXXII
+422109117402996736  Jan 11 14:53  @oystergen_es     #notjustaquaculture #PAGXXII Microbial Regulation of Gene Transcription in the Zebrafish Intestine 2:10pm http://pag14.mapyourshow.com/5_0/sessions/sessiondetails.cfm?ScheduledSessionID=18A8#
+422109321384955904  Jan 11 14:54  @AW_NGS           RT @infoecho: What is the longest contigs that is ever assembled for plant with just one WGS approach? #PAGXXII #mostinterestinggenomeintgeworld
+422110995473920000  Jan 11 15:01  @oystergen_es     #Epigenetics of oysters! #PAGXXII Royal Palm Salon 3-4 #methylation time: 1:25pm
+422111024427581440  Jan 11 15:01  @fluidigm         Hear cutting edge research @fluidigm workshop, Tues. Jan 14 - 1:30 PM, Sunset Ballroom - http://bit.ly/1eXqau4 #PAGXXII
+422111110519463936  Jan 11 15:01  @sr320            RT @oystergen_es: #Epigenetics of oysters! #PAGXXII Royal Palm Salon 3-4 #methylation time: 1:25pm
+422112254482714624  Jan 11 15:06  @vaccandgenes     RT @oystergen_es: #Epigenetics of oysters! #PAGXXII Royal Palm Salon 3-4 #methylation time: 1:25pm
+422112488482549760  Jan 11 15:07  @infoecho         Citrus, Lentil, Maize, Sugar Beet, Swine…  which genome to follow, that is the question #PAGXXII #mostinterestinggenomeintheworld
+422112685153456128  Jan 11 15:08  @UMNPlantPath     RT @VirginiaGewin: Genomics could inform future gap analyses to collect germplasm for gene banks, @gregbaute #PAGXXII
+422112819698364416  Jan 11 15:08  @Mattdrew89       Booth all set up ready for @PAGmeeting...drop by a say hello at stand 324 @GenomeAnalysis  #PAGXXII http://t.co/nZU1URCxbo
+422113244069638145  Jan 11 15:10  @TCRHotel         #PAGXXII We still have seats available at Trellises and Terrace Cafe, come join us for lunch!
+422115217628078081  Jan 11 15:18  @SapCaps          RT @BaxterTwi: The Baxter lab is looking for a talented postdoc in the genetics and informatics interface. Join us! #PAGXXII http://danforthcenter.org/about/careers/jobdescription/postdoctoral-associate---baxter-lab
+422115286142029824  Jan 11 15:18  @DNM_SD_Travel    RT @ #PAGXXII We still have seats available at Trellises and Terrace Cafe, come join us for lunch! http://bit.ly/KUnPqb
+422117914230005760  Jan 11 15:28  @QAAFI            RT @DrHikov: Join a world leading team in Australia! 2 postdoc positions on offer @UQ to work in sorghum #genomics @QAAFI #PAGXXII http://t.co/8AnF2Ql6Tw
+422118613844520960  Jan 11 15:31  @Quartzy          Presenting a poster at #pagXXII? Come by the Exhibit Hall to pick up your pre-printed free Networking Cards! http://ow.ly/sqI3d
+422118806945689600  Jan 11 15:32  @SanDiegoPicks    Mentions for Terrace Cafe: http://sch.mp/0v83y - RT @TCRHotel #PAGXXII We still have seats available at Trellises and Terrace Cafe, co...
+422119814489210880  Jan 11 15:36  @MVickySchneider  RT @Mattdrew89: Booth all set up ready for @PAGmeeting...drop by a say hello at stand 324 @GenomeAnalysis  #PAGXXII http://t.co/nZU1URCxbo
+422120712426364928  Jan 11 15:39  @BellLettres      Oh Canada weather, will you ever let me get to #PAGXXII ? :-(
+422120813932732417  Jan 11 15:40  @tanghaibao       RT @JChrisPires: Multinational #Brassica Genome Meeting tomorrow in Dover room in 10-noon #PAGXXII
+422121318541045761  Jan 11 15:42  @VaillancourtLab  RT @UMNPlantPath: Big thanks to @JChrisPires, @kevinfolta & others for tweeting at #PAGXXII!  Esp great for those of us that couldn't make it this year!
+422121449936019456  Jan 11 15:42  @Woodhouse_M      Great meeting so far! Fantastic Brassica workshop! Thanks @JChrisPires and IanBancroft!  #PAGXXII
+422121536057651200  Jan 11 15:43  @johnlogsdon      Interesting talk on deleterious mutations in maize from Jeffrey Ross-Ibarra @jrossibarra #PAGXXII
+422123243797901312  Jan 11 15:49  @Hairy_Llama      RT @KristaTernus: Among many interesting findings, Chris Creevey confirmed sheep were eating wood from stalls with #metagenomics. #PAGXXII
+422123250580090881  Jan 11 15:50  @ewanbirney       RT @infoecho: Aleksey Zimin: Published Loblolly Pine 1.0 assembly, MaSuRCA 1.8.3, N50 contig 8.2kb, N50 scffold size 30kb (66kb) #PAGXXII
+422123358835052544  Jan 11 15:50  @infoecho         Larissa Ramsay describes the current status of Lens culinaris assembly #PAGXXII. got 2.6G assembly out of 4G genome
+422123681737752576  Jan 11 15:51  @infoecho         Larissa Ramsay, Q&A: BAC-end reads still map to repeats for Lens culinaris genome assembly #PAGXXII
+422123846372581376  Jan 11 15:52  @Hairy_Llama      Huge room for the GWAS session, and completely full. Guess its popular then? #PAGXXII
+422124266012696576  Jan 11 15:54  @KristaTernus     #PAGXXII Genomic Selection & GWAS Session - Problem: value of an individual animal is less than cost of genetic selection.
+422124306760359936  Jan 11 15:54  @hutchins_e       RT @infoecho: Larissa Ramsay, Q&A: BAC-end reads still map to repeats for Lens culinaris genome assembly #PAGXXII @evilsmaug @jcorn427
+422124339534655488  Jan 11 15:54  @GenomeBC         RT @infoecho: Aleksey Zimin: Published Loblolly Pine 1.0 assembly, MaSuRCA 1.8.3, N50 contig 8.2kb, N50 scffold size 30kb (66kb) #PAGXXII
+422124440386666496  Jan 11 15:54  @GenomeBC         RT @Woodhouse_M: Great meeting so far! Fantastic Brassica workshop! Thanks @JChrisPires and IanBancroft!  #PAGXXII
+422124554564030464  Jan 11 15:55  @GenomeBiology    Sarah McKim: HvAP2 regulates developmental transition of spikelet growth in barley through miRNA and hormonal pathways #PAGXXII
+422124716074090496  Jan 11 15:55  @GenomeBC         RT @JChrisPires: Multinational #Brassica Genome Meeting tomorrow in Dover room in 10-noon #PAGXXII
+422124746898026496  Jan 11 15:55  @xyztal           RT @infoecho: Larissa Ramsay describes the current status of Lens culinaris assembly #PAGXXII. got 2.6G assembly out of 4G genome
+422124876690751488  Jan 11 15:56  @arroboso         Taking a break before next talk at #PAGXXII
+422125150281011201  Jan 11 15:57  @pop_gen_JED      Jack Dekkers small haplotypes provide good genomic predictions for common and rare QTLs #PAGXXII
+422125228647403520  Jan 11 15:57  @MariaLuluT       RT @infoecho: Larissa Ramsay, Q&A: BAC-end reads still map to repeats for Lens culinaris genome assembly #PAGXXII
+422125361933979648  Jan 11 15:58  @KristaTernus     Jack Dekkers concludes that large data sets & continuous retraining is needed for successful genomic selection. #PAGXXII
+422125488841035777  Jan 11 15:58  @drhansdd         Dekkers genomic selection acc increased when QTL are rare and co-segregation or haplotypes are fitted in model #pagxxii
+422125518628995072  Jan 11 15:59  @jrossibarra      Fun watching former pdoc @mbhufford on adaptation in teosinte and highland maize landraces #PAGXXII http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477
+422125574820077568  Jan 11 15:59  @iPlantCollab     RT @tanghaibao: Bernie Wone: ice plant can do both C3 and CAM. Current assembly ~87% genic completeness. See poster using PacBiio for assembly. #PAGXXII
+422125640620322816  Jan 11 15:59  @Hairy_Llama      GWAS Session: Jack Dekkers: Genomic selection may work better if not layered on top of existing breeding programmes.  #PAGXXII
+422125653354639361  Jan 11 15:59  @AgroBioDiverse   RT @jrossibarra: Fun watching former pdoc @mbhufford on adaptation in teosinte and highland maize landraces #PAGXXII http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477
+422125673671426052  Jan 11 15:59  @pop_gen_JED      JD genomic selection requires *New* breeding programs. Need to help #beef producers realize this #PAGXXII
+422125688070479872  Jan 11 15:59  @iPlantCollab     RT @noituloveand: #MaSuRCA assembly of pine genome taking 3 months, but outperforming others in #gage, exc. ALLPATHS.  #pagxxii
+422125818261688320  Jan 11 16:00  @pop_gen_JED      RT @Hairy_Llama: GWAS Session: Jack Dekkers: Genomic selection may work better if not layered on top of existing breeding programmes.  #PAGXXII
+422125841305182208  Jan 11 16:00  @tanghaibao       Matthew Hufford: highland adaptations through introgression from wild relative. HAPMIX - admixed chromosomes models as mosaics #PAGXXII
+422125937824505856  Jan 11 16:00  @kseniakrasileva  Grasses have different polysaccharide composition than dicots (arabidopsis) #PAGXXII #barley
+422125968786878465  Jan 11 16:00  @pop_gen_JED      RT @drhansdd: Dekkers genomic selection acc increased when QTL are rare and co-segregation or haplotypes are fitted in model #pagxxii
+422126006539796480  Jan 11 16:00  @Hairy_Llama      Ok apparently the room was a tenth of the size for this session last year! #packedtotherafters #PAGXXII
+422126013204529152  Jan 11 16:00  @KristaTernus     RT @drhansdd: Dekkers genomic selection acc increased when QTL are rare and co-segregation or haplotypes are fitted in model #pagxxii
+422126024977956864  Jan 11 16:01  @iPlantCollab     RT @Hairy_Llama: GWAS Session: Jack Dekkers: Genomic selection may work better if not layered on top of existing breeding programmes.  #PAGXXII
+422126140099010560  Jan 11 16:01  @gregbaute        Post talk fish tacos and sunshine makes me happy. Also hummingbirds. Maize workshop now #PAGXXII
+422126143605456896  Jan 11 16:01  @KristaTernus     RT @pop_gen_JED: JD genomic selection requires *New* breeding programs. Need to help #beef producers realize this #PAGXXII
+422126144646037505  Jan 11 16:01  @AgroBioDiverse   RT @Hairy_Llama: GWAS Session: Jack Dekkers: Genomic selection may work better if not layered on top of existing breeding programmes.  #PAGXXII
+422126239403364352  Jan 11 16:01  @drhansdd         RT @pop_gen_JED: JD genomic selection requires *New* breeding programs. Need to help #beef producers realize this #PAGXXII
+422126280977309697  Jan 11 16:02  @drhansdd         RT @Hairy_Llama: GWAS Session: Jack Dekkers: Genomic selection may work better if not layered on top of existing breeding programmes.  #PAGXXII
+422126287885316096  Jan 11 16:02  @kseniakrasileva  Geoff Fincher describes evolution of plant cell wall enzymes at #PAGXXII
+422126297548984321  Jan 11 16:02  @taybiob5         Introducing Twitter to your scientists friends http://bit.ly/Y0oHtu #PAGXXII
+422126438146650112  Jan 11 16:02  @AgroBioDiverse   RT @pop_gen_JED: JD genomic selection requires *New* breeding programs. Need to help #beef producers realize this #PAGXXII
+422126693793288192  Jan 11 16:03  @hquesneville     @michaelalaux @Inra_urgi Nice talk by @michaelalaux @PAGmeeting #PAGXXII
+422126898810859521  Jan 11 16:04  @gregbaute        Wild introgression in maize! Highland adaptation #PAGXXII
+422126986749026305  Jan 11 16:04  @AgroBioDiverse   RT @infoecho: Larissa Ramsay describes the current status of Lens culinaris assembly #PAGXXII. got 2.6G assembly out of 4G genome
+422127040423550976  Jan 11 16:05  @AgroBioDiverse   RT @BaxterTwi: I will be talking about our first experiments with the new @DanforthCenter phenotyping facility Mon evening #PAGXXII http://pag14.mapyourshow.com/5_0/sessions/sessiondetails.cfm?ScheduledSessionID=1BA9C8&CFID=15316059&CFTOKEN=b200d005a0c5a50a-1B41D406-D077-382D-BA1F6A6095E1DFE9
+422127439481798656  Jan 11 16:06  @MariaLuluT       RT @GenomeBiology: Sarah McKim: HvAP2 regulates developmental transition of spikelet growth in barley through miRNA and hormonal pathways #PAGXXII
+422127625218174976  Jan 11 16:07  @hutchins_e       Xiu-Qing Li talks about polyA base selection - 18 genomes from fungi to mammals #PAGXXII
+422127687335809024  Jan 11 16:07  @MariaLuluT       Interesting talk by Mark Wright from Cornell-allele mining session at PAGXXII
+422127693132337152  Jan 11 16:07  @BaxterTwi        RT @jrossibarra: Fun watching former pdoc @mbhufford on adaptation in teosinte and highland maize landraces #PAGXXII http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477
+422127900834267136  Jan 11 16:08  @KristaTernus     Bin Han showing genetic structure & pop differentiation in cultivated rice. I just learned rice has no natural pop. #PAGXXII
+422128000910389248  Jan 11 16:08  @pop_gen_JED      Bin Han cites Multitrait mixed model Korte et al 2013 #PAGXXII
+422128103423369216  Jan 11 16:09  @jcorn427         Using mate-pair sequence to ID genomic rearangements in different pig strains. Awesome. @hutchins_e @evilsmaug #PAGXXII
+422128115200958464  Jan 11 16:09  @gregbaute        Now Ed Buckler #PAGXXII Ironing out the bugs in GBS. Gluing together maize community.
+422128302598283264  Jan 11 16:10  @KTInvasion       RT @gregbaute: Now Ed Buckler #PAGXXII Ironing out the bugs in GBS. Gluing together maize community.
+422128343425638400  Jan 11 16:10  @tanghaibao       RT @pop_gen_JED: Bin Han cites Multitrait mixed model Korte et al 2013 #PAGXXII
+422128437264797696  Jan 11 16:10  @jrossibarra      Ed Buckler: aim to predict phenotypic consequence of every bp. #PAGXXII
+422128601770000384  Jan 11 16:11  @J_J_Dempsey      RT @kseniakrasileva: Grasses have different polysaccharide composition than dicots (arabidopsis) #PAGXXII #barley
+422128636289105920  Jan 11 16:11  @jeshoff1         RT @jrossibarra: Ed Buckler: aim to predict phenotypic consequence of every bp. #PAGXXII
+422128722678784000  Jan 11 16:11  @simminnovations  RT @pop_gen_JED: JD genomic selection requires *New* breeding programs. Need to help #beef producers realize this #PAGXXII
+422128740458442752  Jan 11 16:11  @simminnovations  RT @KristaTernus: Jack Dekkers concludes that large data sets & continuous retraining is needed for successful genomic selection. #PAGXXII
+422128929378684928  Jan 11 16:12  @GenomeAnalysis   RT @Mattdrew89: Booth all set up ready for @PAGmeeting...drop by a say hello at stand 324 @GenomeAnalysis  #PAGXXII http://t.co/nZU1URCxbo
+422128982331367424  Jan 11 16:12  @BioMath          Ed Buckler is starting his GBS talk. 15x faster if we had better geno to pheno methods #PAGXXII
+422129307276701696  Jan 11 16:14  @KristaTernus     Rice does have a wild relative, and Bin is leveraging this to look for domestication sweeps. #PAGXXII
+422129569584275458  Jan 11 16:15  @simminnovations  We are enjoying the tweets from #PAGXXII today! #beef #genomics
+422129813160091648  Jan 11 16:16  @tanghaibao       Ed Buckler: TASSEL reference based GBS pipeline: discovery and production pipeline. Good agreement between GBS and SNP chip #PAGXXII
+422129909356453888  Jan 11 16:16  @infoecho         RT @KristaTernus: Rice does have a wild relative, and Bin is leveraging this to look for domestication sweeps. #PAGXXII
+422130032752861185  Jan 11 16:16  @pop_gen_JED      .@jeshoff1 put more selection pressure on females using genomics. Other, more creative ways. #beef #genomics #PAGXXII
+422130318334652416  Jan 11 16:18  @GenomeBiology    Geoff Fincher: HvCsIF9 is transcribed in developing barley endosperm and increases solubility of polysaccharides #PAGXXII
+422130501504081920  Jan 11 16:18  @jrossibarra      Buckler showing little overlap (<<50%) with read mapping between aligners in maize. Genetic assignment approaches can solve. #PAGXXII
+422130566989766656  Jan 11 16:19  @pop_gen_JED      RT @simminnovations: We are enjoying the tweets from #PAGXXII today! #beef #genomics
+422130611579400192  Jan 11 16:19  @gregbaute        #PAGXXII Buckler: machine learning for mapping GBS tags. 4.5million mapped with high res.
+422130919541977088  Jan 11 16:20  @rmwhitford       RT @GenomeBiology: KJ: wheat B sub genome has the most polymorphisms of all wheat subgenomes #PAGXXII
+422130991646273536  Jan 11 16:20  @rmwhitford       RT @GenomeBiology: KJ: wheat D subgenome has reduced diversity and greater tendancy for rarer alleles compared with A and B subgenomes #PAGXXII
+422131004027846656  Jan 11 16:20  @tanghaibao       Ed Buckler: GBS inputation uses FSFHap with Viterbi HMM and FILLIN when inbred segments are available #PAGXXII
+422131046973333504  Jan 11 16:20  @SahaSurya        RT @jrossibarra: Buckler showing little overlap (<<50%) with read mapping between aligners in maize. Genetic assignment approaches can solve. #PAGXXII
+422131240884379648  Jan 11 16:21  @gregbaute        FILLIN Fast Inbred Line LIbrary ImputatioN GBS imputation for missing data #PAGXXII makes library of haplotypes + uses HMM. Buckler
+422131296962228224  Jan 11 16:21  @simminnovations  RT @pop_gen_JED: .@jeshoff1 put more selection pressure on females using genomics. Other, more creative ways. #beef #genomics #PAGXXII
+422131530014535680  Jan 11 16:22  @gregbaute        Combine BEAGLE and FILLIN for 99% accuracy #PAGXXII Much harder for landraces (71%).
+422131790304657408  Jan 11 16:23  @danmaclean       RT @jrossibarra: Buckler showing little overlap (<<50%) with read mapping between aligners in maize. Genetic assignment approaches can solve. #PAGXXII
+422131917534687232  Jan 11 16:24  @rmwhitford       RT @GenomeBiology: Sarah McKim: HvAP2 regulates developmental transition of spikelet growth in barley through miRNA and hormonal pathways #PAGXXII
+422131938086760448  Jan 11 16:24  @jrossibarra      Buckler showing nigh-100% imputation accuracy in inbreds in maize. Not quite so good (70% at best) in landraces (boo). #PAGXXII
+422131975353151488  Jan 11 16:24  @JavierHerrero7   RT @GenomeBiology: Burkhard Steurnagel: Aegilopsis sharonensis is a hybrid species derived from a homoploid hybrid speciation event #PAGXXII
+422132496302497792  Jan 11 16:26  @KristaTernus     I believe there's a research job opening in Bin Han's lab. National Center for Gene Research, SIBS, CAS #PAGXXII
+422132857176203265  Jan 11 16:28  @kseniakrasileva  Matthew Moscow talks about understanding non-host resistance: why wheat rust does not infect barley? #PAGXXII
+422133362946342912  Jan 11 16:30  @pop_gen_JED      .@simminnovations thanks for the follow and retweets. You might like my blog http://steakgenomics.blogspot.com #beef #genomics #PAGXXII
+422133421914066944  Jan 11 16:30  @bluessherpa      Prepping for talk #1 @ #PAGXXII. Got candidates for AVR genes in leaf rust!!! #fellerslab http://t.co/YrS6EF3AWP
+422133542995259392  Jan 11 16:30  @noituloveand     Bummed I missed Buckler’s talk, but I’m here now.  Maize is packed, too!  #pagxxii
+422133581813538816  Jan 11 16:31  @kdpru            #PAGXXII using mate pair data to improve the pig assembly- #assemblymaintenace
+422133863821737984  Jan 11 16:32  @KristaTernus     Ben Hayes says genomic prediction allows us to no longer depend on genotyped SNPs being in LD with causative SNP. #yay #PAGXXII
+422134036497051648  Jan 11 16:32  @pop_gen_JED      RT @kdpru: #PAGXXII using mate pair data to improve the pig assembly- #assemblymaintenace
+422134314617163776  Jan 11 16:33  @sjackman         RT @infoecho: Aleksey Zimin: Published Loblolly Pine 1.0 assembly, MaSuRCA 1.8.3, N50 contig 8.2kb, N50 scffold size 30kb (66kb) #PAGXXII
+422134583753072640  Jan 11 16:35  @pop_gen_JED      BEN HAYES: accuracy of imputation much lower for rare variants (IMO also func of seq coverage) #PAGXXII
+422134878574895105  Jan 11 16:36  @infoecho         Davide Scaglione: two good citrus reference ~ 300 to 330 Mb genome  #PAGXXII
+422134886074302464  Jan 11 16:36  @xyztal           Wild lentil a challenge to grow, but valuable genetic resources for disease resistance!  #geneticdiversity #pagxxii
+422135046082809856  Jan 11 16:36  @KristaTernus     Ben Hayes is imputing sequence data in dairy cattle with the 1000 Bull Genomes Project Data Set. #PAGXXII
+422135216677724160  Jan 11 16:37  @pop_gen_JED      BH after imputation causal variant is not always most strongly assc var in GWAS #PAGXXII
+422135664486780929  Jan 11 16:39  @drhansdd         Hayes In GWAS with sequence causative mutation is not always most significant due to sampling. #PAGXXII
+422135765238169600  Jan 11 16:39  @drhansdd         RT @pop_gen_JED: BH after imputation causal variant is not always most strongly assc var in GWAS #PAGXXII
+422135811337756672  Jan 11 16:39  @drhansdd         RT @KristaTernus: Ben Hayes is imputing sequence data in dairy cattle with the 1000 Bull Genomes Project Data Set. #PAGXXII
+422135917474635776  Jan 11 16:40  @pop_gen_JED      BH improvements: use genomic selection methods (BayesB, BayesCpi, etc) #PAGXXII
+422135937590521856  Jan 11 16:40  @GenomeBiology    Matthew Moscou: host species specificity of wheat stripe rust is conditioned by a few major resistance genes in barley #PAGXXII
+422135962328518656  Jan 11 16:40  @KristaTernus     Note that imputation errors exist, so the most significant SNP still might not be the causative SNP. #PAGXXII
+422136227957972992  Jan 11 16:41  @pop_gen_JED      BH BayesR 4 dist: no, very small, small, and moderate effects. #PAGXXII
+422136458627907585  Jan 11 16:42  @kdpru            #PAGXXII Ghosh - horse copy number variation & model for asthma.
+422136690379997184  Jan 11 16:43  @KristaTernus     It's important to take other biological information into account when determining causation. #RNAseq #PAGXXII
+422137153498263554  Jan 11 16:45  @pop_gen_JED      .@KristaTernus sequencing allows us to no longer depend on LD. Genomic prediction relies on LD. #PAGXXII
+422137300928442368  Jan 11 16:45  @PAGmeeting       Lost something at #PAGXXII? Dial 0 on any hotel phone for the lost and found office to reunite with your precious items.
+422137465491566592  Jan 11 16:46  @KristaTernus     RT @pop_gen_JED: .@KristaTernus sequencing allows us to no longer depend on LD. Genomic prediction relies on LD. #PAGXXII
+422138272395976704  Jan 11 16:49  @pop_gen_JED      BH BayesRC 3 classes of SNPs with 4 distributions per class. Nonsynynmous, genic, and others #PAGXXII
+422138335763509248  Jan 11 16:49  @KristaTernus     Ben Hayes has found many important SNPs outside of the exome. #PAGXXII
+422139648203177984  Jan 11 16:55  @pop_gen_JED      Taylor points out differently expressed genes point to regulatory elements, NOT coding vars. Reg var was under-emphasized in talk #PAGXXII
+422139677513383936  Jan 11 16:55  @fluidigm         How are we building your next gen seeds faster? Don't miss our workshop #PAGXXII - http://bit.ly/1eXqau4
+422139747897999360  Jan 11 16:55  @BillTracy1       RT @jrossibarra: Buckler showing nigh-100% imputation accuracy in inbreds in maize. Not quite so good (70% at best) in landraces (boo). #PAGXXII
+422139797340426240  Jan 11 16:55  @BillTracy1       RT @jrossibarra: Ed Buckler: aim to predict phenotypic consequence of every bp. #PAGXXII
+422139799571423232  Jan 11 16:55  @jcorn427         745 species and 2061 individual genomes used in test for gene directionality. @hutchins_e @evilsmaug  #PAGXXII
+422139884124401666  Jan 11 16:56  @pop_gen_JED      Up next Jean-Luc Jannick in GWAS and genomic selection section. #PAGXXII
+422140028777549824  Jan 11 16:56  @jpummil          RT @infoecho: Aleksey Zimin: Published Loblolly Pine 1.0 assembly, MaSuRCA 1.8.3, N50 contig 8.2kb, N50 scffold size 30kb (66kb) #PAGXXII
+422140074700972032  Jan 11 16:56  @KristaTernus     RT @pop_gen_JED: Taylor points out differently expressed genes point to regulatory elements, NOT coding vars. Reg var was under-emphasized in talk #PAGXXII
+422140505183375360  Jan 11 16:58  @simminnovations  @pop_gen_JED will definitely check it out! Sure enjoying your tweets from #PAGXXII
+422140584971997184  Jan 11 16:58  @BillTracy1       RT @pop_gen_JED: JD genomic selection requires *New* breeding programs. Need to help #beef producers realize this #PAGXXII
+422140587970539520  Jan 11 16:58  @pop_gen_JED      JLJ novel mutations are not predicted from genomic selection, can cause parental candidates to be reranked. #PAGXXII
+422142282343514112  Jan 11 17:05  @BioMickWatson    RT @noituloveand: #MaSuRCA assembly of pine genome taking 3 months, but outperforming others in #gage, exc. ALLPATHS.  #pagxxii
+422143438176657409  Jan 11 17:10  @BGI_Events       Starting shortly at #PAGXXII, see the 3000 rice genomes project in the Allele Mining track (Golden Ballroom #2098) http://ow.ly/suerf
+422143452042641408  Jan 11 17:10  @pop_gen_JED      JLJ pointed out that these simulation are not for pops where standing variation is most important #PAGXXII
+422143506518265856  Jan 11 17:10  @infoecho         Computation demo workshop for SMRTAnalysis #SMRTSeq  #PacBio #PAGXXII http://t.co/yKFNhzG4Lw
+422143764186935296  Jan 11 17:11  @drhansdd         Jannink long-term genetic gain of genomic selection less than pheno sel if most new mutations are deleterious #PAGXXII
+422143979228913666  Jan 11 17:12  @VirginiaGewin    How translate sequences into crop improvement? Genomes to Fields initiative Pat Schnabel Pagxxii#
+422144083721601025  Jan 11 17:12  @drhansdd         RT @KristaTernus: Ben Hayes has found many important SNPs outside of the exome. #PAGXXII
+422144112083476480  Jan 11 17:12  @drhansdd         RT @pop_gen_JED: BH BayesRC 3 classes of SNPs with 4 distributions per class. Nonsynynmous, genic, and others #PAGXXII
+422144222272450561  Jan 11 17:13  @UMNPlantPath     RT @VirginiaGewin: How translate sequences into crop improvement? Genomes to Fields initiative Pat Schnabel Pagxxii#
+422144240924114944  Jan 11 17:13  @pop_gen_JED      JLJ physicist showed bumblebees can't fly, he has shown genomic selection doesn't work #joke #PAGXXII
+422144254865993728  Jan 11 17:13  @drhansdd         RT @pop_gen_JED: JLJ novel mutations are not predicted from genomic selection, can cause parental candidates to be reranked. #PAGXXII
+422144365490741248  Jan 11 17:13  @davidgifford     RT @plantscience: Transnational infrastructure for plant genomic science "transPlant" project being discussed at #PAGXXII http://bit.ly/1ag8Uwg
+422144476497207296  Jan 11 17:14  @drhansdd         RT @pop_gen_JED: JLJ physicist showed bumblebees can't fly, he has shown genomic selection doesn't work #joke #PAGXXII
+422144527038558209  Jan 11 17:14  @gmodproject      #PAGXXII advanced warning: 4:00 today, Towne: Next Gen Genome Annotation and Analysis, including #MAKER. See you there!
+422144656659337217  Jan 11 17:15  @tanghaibao       Pat Schnable: challenge of phenotyping, "Big Data" and the G2F initiative (P = G + E + GxE) #PAGXXII
+422144669384843264  Jan 11 17:15  @VirginiaGewin    Genomes to Fields Initiative: big data to develop models that enable predictions of phenotype based on genotype &env data,Schnabel #PAGXXII
+422144673033883648  Jan 11 17:15  @pop_gen_JED      JLJ phenotypic selection provides common variants for genomic selection to fix. Yay! Genomic selection works!!! #PAGXXII
+422144682848567296  Jan 11 17:15  @sjackman         RT @noituloveand: #MaSuRCA assembly of pine genome taking 3 months, but outperforming others in #gage, exc. ALLPATHS.  #pagxxii
+422144899560247297  Jan 11 17:16  @julponchart      RT @GenomeBiology: Matthew Moscou: host species specificity of wheat stripe rust is conditioned by a few major resistance genes in barley #PAGXXII
+422145107291144193  Jan 11 17:16  @rubenrellan      "Tales from the glowing trenches" Tomorrow 8 AM at the #PAGXXII Plant Phenotypes workshop. Root phenotyping @JoseDinneny lab style.
+422145229865496577  Jan 11 17:17  @VirginiaGewin    Genomes to Fields Initiative: build predictive models, pilot study starts this year, Schnabel #PAGXXII
+422145268876713984  Jan 11 17:17  @pop_gen_JED      JLJ highlights need to combine phenotypic and genomic selection #PAGXXII
+422145485181161473  Jan 11 17:18  @APMisLow         RT @infoecho: Computation demo workshop for SMRTAnalysis #SMRTSeq  #PacBio #PAGXXII http://t.co/yKFNhzG4Lw
+422145704631349249  Jan 11 17:19  @VirginiaGewin    Genomes to Fields Initiative exec committee #PAGXXII http://t.co/IIUh9TR6zo
+422145863637827584  Jan 11 17:19  @Luciakaal        RT @KristaTernus: Ben Hayes is imputing sequence data in dairy cattle with the 1000 Bull Genomes Project Data Set. #PAGXXII
+422146283365609472  Jan 11 17:21  @pop_gen_JED      Up next in GWAS and GS Bilal H Ashraf #PAGXXII
+422146493546774528  Jan 11 17:22  @Luciakaal        RT @fstrozzi: Last speaker Dirkjan Schokker from Wageningen U talking about the interplay between the #microbiome and the gene expr of the host #PAGXXII
+422146562559459328  Jan 11 17:22  @pop_gen_JED      BHA tools developed in animal breeding are not always readily applicable in plant breeding. #PAGXXII
+422147223720177665  Jan 11 17:25  @VirginiaGewin    G2F: genotype by env experiment starts this year, larger initiative starts 2015 Natalia de Leon  #PAGXXII
+422147496006012928  Jan 11 17:26  @mcaccamo         RT @GenomeBiology: Matthew Moscou: host species specificity of wheat stripe rust is conditioned by a few major resistance genes in barley #PAGXXII
+422147687027187712  Jan 11 17:27  @mcaccamo         RT @plantscience: Transnational infrastructure for plant genomic science "transPlant" project being discussed at #PAGXXII http://bit.ly/1ag8Uwg
+422147703733493760  Jan 11 17:27  @Luciakaal        RT @fstrozzi: DS: Looking at antibiotics effect in chicken #microbiome composition at early life. #PAGXXII
+422147818690605056  Jan 11 17:27  @mcaccamo         RT @infoecho: Aleksey Zimin: Published Loblolly Pine 1.0 assembly, MaSuRCA 1.8.3, N50 contig 8.2kb, N50 scffold size 30kb (66kb) #PAGXXII
+422148143195508736  Jan 11 17:28  @GenomeBC         Thanks @Syngenta for sponsoring WiFi at #PAGXXII
+422148227366797312  Jan 11 17:29  @pop_gen_JED      BHA genotype errors lead to errors in genomic relationship matrix. Diagonals are over inflated #PAGXXII
+422148238460723201  Jan 11 17:29  @VirginiaGewin    Sets of 250-300 hybrids with overlapping allelic contributions across many env; collect grain yield, genotype the hybrids, de Leon #PAGXXII
+422148605638504448  Jan 11 17:30  @CSciBio          Adding slides an hour before you talk just means you're presenting some hot data #PAGXXII
+422148720612745216  Jan 11 17:31  @fstrozzi         And this year it’s working really well RT @GenomeBC: Thanks @Syngenta for sponsoring WiFi at #PAGXXII
+422148749628932096  Jan 11 17:31  @VaillancourtLab  RT @bluessherpa: Prepping for talk #1 @ #PAGXXII. Got candidates for AVR genes in leaf rust!!! #fellerslab http://t.co/YrS6EF3AWP
+422149064516325376  Jan 11 17:32  @GenomeBC         RT @plantscience: Transnational infrastructure for plant genomic science "transPlant" project being discussed at #PAGXXII http://bit.ly/1ag8Uwg
+422149181839380481  Jan 11 17:33  @drhansdd         Ashraf ryegrass GBS, genomic h2 overestimated at low sequencing coverage #PAGXXII
+422149192715210752  Jan 11 17:33  @pop_gen_JED      BHA genetic variance is over estimated when genotypes are called from low coverage #sequencedeep #PAGXXII
+422149376195051520  Jan 11 17:33  @GenomeBC         RT @BGI_Events: Starting shortly at #PAGXXII, see the 3000 rice genomes project in the Allele Mining track (Golden Ballroom #2098) http://ow.ly/suerf
+422149494998700032  Jan 11 17:34  @GenomeBC         RT @PAGmeeting: Lost something at #PAGXXII? Dial 0 on any hotel phone for the lost and found office to reunite with your precious items.
+422150340364890112  Jan 11 17:37  @jono_powellAU    Exciting work on wheat and barley rust resistance this afternoon. Looking fwd to gene stewardship session, 4pm. #feeling_inspired #PAGXXII
+422150567658401792  Jan 11 17:38  @tanghaibao       Kenneth MaNally: IRRI Field scanner has multispectral reflectance, ultrasonic canopy ht and other high-throughput phenotype sensors #PAGXXII
+422151079925923840  Jan 11 17:40  @AgroBioDiverse   RT @BGI_Events: Starting shortly at #PAGXXII, see the 3000 rice genomes project in the Allele Mining track (Golden Ballroom #2098) http://ow.ly/suerf
+422151328303820800  Jan 11 17:41  @tanghaibao       Kenneth McNally: existing rice portals, MSU, RAP-DB, BGI-RIS, PlantGDB, Gramene. We need Rice Information Portal, however not "RIP" #PAGXXII
+422151973434310656  Jan 11 17:44  @Yvette_deHaas    RT @KristaTernus: Ben Hayes is imputing sequence data in dairy cattle with the 1000 Bull Genomes Project Data Set. #PAGXXII
+422153875282358273  Jan 11 17:51  @globalrust       Responsible gene stewardship for disease resistance, starting in 10 mins in pacific salon 1 #PAGXXII
+422154205906743298  Jan 11 17:53  @UMNPlantPath     RT @globalrust: Responsible gene stewardship for disease resistance, starting in 10 mins in pacific salon 1 #PAGXXII
+422154455266512898  Jan 11 17:54  @noituloveand     Population and Conservation Genomics up next.  Made it through foyer w/o spilling coffee on anyone incl. myself #pagxxii
+422154798469640192  Jan 11 17:55  @GenomeBC         Registered for Canadian Genome Centre networking event at #PAGXXII? See you between 5:30 & 8:30. Look for Canadian flags at Tiki pavilion.
+422154809743917056  Jan 11 17:55  @PlantBioJoe      RT @kevinfolta: At the Plant/Animal Genome Conference, day 1, before noon, I've heard "PETABYTE" too many times to be comfortable. #PAGXXII
+422155247050436608  Jan 11 17:57  @hutchins_e       When I see the swine workshop, I think of Peter Sellers #everytime #PAGXXII http://t.co/kRkEI96eqZ
+422155280067993600  Jan 11 17:57  @globalrust       Speaking of responsible gene stewardship, the BGRI stewardship award nominations open until Jan 15 Info: http://bit.ly/19d6Qdq #PAGXXII
+422155427829133313  Jan 11 17:57  @noituloveand     RT @hutchins_e: When I see the swine workshop, I think of Peter Sellers #everytime #PAGXXII http://t.co/kRkEI96eqZ
+422155818310434817  Jan 11 17:59  @noituloveand     break time at #pagxxii aka bringing the wlan to its knees.
+422156114851934208  Jan 11 18:00  @hyphaltip        RT @jrossibarra: Buckler showing little overlap (<<50%) with read mapping between aligners in maize. Genetic assignment approaches can solve. #PAGXXII
+422156442007662592  Jan 11 18:01  @hquesneville     RT @GenomeBiology: Frederic Choulet: genes at distal regions of wheat chromosomes have more specific expression and reduced alternative splicing #PAGXXII
+422156512358699009  Jan 11 18:02  @globalrust       First up is Bob Bowden, @USDA_ARS giving an intro to responsible gene stewardship #pagxxii
+422156610614489088  Jan 11 18:02  @KristaTernus     RT @jrossibarra: Buckler showing little overlap (<<50%) with read mapping between aligners in maize. Genetic assignment approaches can solve. #PAGXXII
+422156998931513344  Jan 11 18:04  @noituloveand     Sally Aitken: local adaptation of conifers to climate and #AdapTree #pagxxii
+422157404118061056  Jan 11 18:05  @hquesneville     RT @plantscience: Cyril Pommier #PAGXXII  GnpIS: an information system to integrate genetic and genomic data from plants and fungi http://1.usa.gov/1ewO7t4
+422157463937249280  Jan 11 18:05  @hquesneville     RT @plantscience: Environment and Phenotype Information System Ephesis from URGI being discussed by Cyril Pommier #PAGXXII http://bit.ly/1ewPlV6
+422157561584812032  Jan 11 18:06  @Hairy_Llama      Population and genomic conservation session. Assisted gene flow to facilitate adaptation to new environments #pagxxii
+422157599077720064  Jan 11 18:06  @hquesneville     RT @plantscience: Transnational infrastructure for plant genomic science "transPlant" project being discussed at #PAGXXII http://bit.ly/1ag8Uwg
+422157689104244736  Jan 11 18:06  @hquesneville     RT @plantscience: Using the open source ISA metadata tracking tools concept http://isa-tools.org/ for crop phenotype data discussed by Hanna Cweik #PAGXXII
+422157868528177152  Jan 11 18:07  @gregbaute        Climate change genomics #PAGXXII first up: Loren Rieseberg. IMO No such thing as too much sunflower.
+422157874916098049  Jan 11 18:07  @noituloveand     SA: assisted gene flow via giant sequoia gift trees at #SFO #pagxxii  #sciencehumor
+422158083914477568  Jan 11 18:08  @infoecho         David Schwartz on optical mapping and nano coding for analyzing complex genome #PAGXXII
+422158128239480832  Jan 11 18:08  @fstrozzi         RT @infoecho: David Schwartz on optical mapping and nano coding for analyzing complex genome #PAGXXII
+422158337623355392  Jan 11 18:09  @infoecho         DS, how map is done: single DNA molecule -> Restriction digest- > image analysis -> restriction map #PAGXXII
+422158340907479040  Jan 11 18:09  @VirginiaGewin    Headed for perfect storm of food crisis of monumental proportions later this century-->popn, <water, same land, Loren Rieseberg #PAGXXII
+422158574534414337  Jan 11 18:10  @infoecho         DS, Whole genome restriction maps: what they offer for genome analysis (1) genome assembly (2) structural variation #PAGXXII
+422158912737918976  Jan 11 18:11  @KristaTernus     RT @infoecho: David Schwartz on optical mapping and nano coding for analyzing complex genome #PAGXXII
+422158960116764672  Jan 11 18:11  @globalrust       Bowden: Keys to success for gene stewardship: need credible strategies of durability, workable plans, community cooperation #PAGXXII
+422159041389809664  Jan 11 18:12  @tanghaibao       David Schwartz: Optical maps help to order genome asm and find structural variations. Human OM so good it's used to upgrade builds #PAGXXII
+422159054148890624  Jan 11 18:12  @KristaTernus     RT @infoecho: DS, how map is done: single DNA molecule -> Restriction digest- > image analysis -> restriction map #PAGXXII
+422159071794307072  Jan 11 18:12  @KristaTernus     RT @infoecho: DS, Whole genome restriction maps: what they offer for genome analysis (1) genome assembly (2) structural variation #PAGXXII
+422159072335368192  Jan 11 18:12  @pop_gen_JED      RT @infoecho: DS, Whole genome restriction maps: what they offer for genome analysis (1) genome assembly (2) structural variation #PAGXXII
+422159121916252160  Jan 11 18:12  @infoecho         DS, Dr. Shiguo Zhou’s work on mapping 4 Human, Mouse,  Rat,  bovine. see poster by Dr. Shiguo. #PAGXXII
+422159128325156864  Jan 11 18:12  @pop_gen_JED      RT @infoecho: DS, how map is done: single DNA molecule -> Restriction digest- > image analysis -> restriction map #PAGXXII
+422159396118884352  Jan 11 18:13  @ialarmedalien    Oh no... Presentation slide in Comic Sans! Why is this font still legal?!  #pagxxii
+422159403710550016  Jan 11 18:13  @noituloveand     Anyone at #pagxxii ever do tree leaf/needle sampling with an RC helicopter?
+422159740483801088  Jan 11 18:15  @danmaclean       #PAGXXII Sally aitken - assisted gene flow - moving selected individuals around place to improve local genetic diversity.
+422159811040395265  Jan 11 18:15  @neurolivia       In San Diego for #PAGXXII, sharing the @Quartzy <3  !
+422159859685941248  Jan 11 18:15  @hpcprogrammer    Off to beautiful San Diego to speak at #PAGXXII about using supercomputers in #genomics. Want to use #titan? Learn to grow your code #hpc
+422160143560626176  Jan 11 18:16  @JChrisPires      RT @tanghaibao: David Schwartz: Optical maps help to order genome asm and find structural variations. Human OM so good it's used to upgrade builds #PAGXXII
+422160176305537024  Jan 11 18:16  @JChrisPires      RT @globalrust: Bowden: Keys to success for gene stewardship: need credible strategies of durability, workable plans, community cooperation #PAGXXII
+422160194051645440  Jan 11 18:16  @JChrisPires      RT @infoecho: DS, Whole genome restriction maps: what they offer for genome analysis (1) genome assembly (2) structural variation #PAGXXII
+422160211437031424  Jan 11 18:16  @JChrisPires      RT @VirginiaGewin: Headed for perfect storm of food crisis of monumental proportions later this century-->popn, <water, same land, Loren Rieseberg #PAGXXII
+422160265535164416  Jan 11 18:17  @JChrisPires      RT @infoecho: DS, how map is done: single DNA molecule -> Restriction digest- > image analysis -> restriction map #PAGXXII
+422160287362334720  Jan 11 18:17  @JChrisPires      RT @infoecho: David Schwartz on optical mapping and nano coding for analyzing complex genome #PAGXXII
+422160305141981184  Jan 11 18:17  @JChrisPires      RT @noituloveand: SA: assisted gene flow via giant sequoia gift trees at #SFO #pagxxii  #sciencehumor
+422160364428480512  Jan 11 18:17  @JChrisPires      RT @gregbaute: Climate change genomics #PAGXXII first up: Loren Rieseberg. IMO No such thing as too much sunflower.
+422160386146570240  Jan 11 18:17  @noituloveand     SA: highlighting the importance of control loci #pagxxii
+422160392299618304  Jan 11 18:17  @JChrisPires      RT @Hairy_Llama: Population and genomic conservation session. Assisted gene flow to facilitate adaptation to new environments #pagxxii
+422160556179456000  Jan 11 18:18  @infoecho         DS shows MCF-7 large-scale rearrangements identified by optical mapping #PAGXXII
+422160777022169089  Jan 11 18:19  @plantscience     RT @VirginiaGewin: Headed for perfect storm of food crisis of monumental proportions later this century-->popn, <water, same land, Loren Rieseberg #PAGXXII
+422160923332050944  Jan 11 18:19  @JChrisPires      RT @GenomeBC: Registered for Canadian Genome Centre networking event at #PAGXXII? See you between 5:30 & 8:30. Look for Canadian flags at Tiki pavilion.
+422160951635238913  Jan 11 18:19  @JChrisPires      RT @tanghaibao: Kenneth McNally: existing rice portals, MSU, RAP-DB, BGI-RIS, PlantGDB, Gramene. We need Rice Information Portal, however not "RIP" #PAGXXII
+422160964796964865  Jan 11 18:19  @JChrisPires      RT @tanghaibao: Kenneth MaNally: IRRI Field scanner has multispectral reflectance, ultrasonic canopy ht and other high-throughput phenotype sensors #PAGXXII
+422161011366313984  Jan 11 18:20  @JChrisPires      RT @jono_powellAU: Exciting work on wheat and barley rust resistance this afternoon. Looking fwd to gene stewardship session, 4pm. #feeling_inspired #PAGXXII
+422161030467178496  Jan 11 18:20  @JChrisPires      RT @drhansdd: Ashraf ryegrass GBS, genomic h2 overestimated at low sequencing coverage #PAGXXII
+422161069159612416  Jan 11 18:20  @JChrisPires      RT @VirginiaGewin: Sets of 250-300 hybrids with overlapping allelic contributions across many env; collect grain yield, genotype the hybrids, de Leon #PAGXXII
+422161090940649472  Jan 11 18:20  @plantscience     RT @tanghaibao: Kenneth McNally: existing rice portals, MSU, RAP-DB, BGI-RIS, PlantGDB, Gramene. We need Rice Information Portal, however not "RIP" #PAGXXII
+422161105700417536  Jan 11 18:20  @JChrisPires      RT @VirginiaGewin: G2F: genotype by env experiment starts this year, larger initiative starts 2015 Natalia de Leon  #PAGXXII
+422161157659426816  Jan 11 18:20  @danmaclean       #PAGXXII  random forest: Mach lrning classfn used to predict multisnp phenotypes. Presumably uses a random forest approach holiday et al g3
+422161184142266368  Jan 11 18:20  @JChrisPires      RT @pop_gen_JED: Taylor points out differently expressed genes point to regulatory elements, NOT coding vars. Reg var was under-emphasized in talk #PAGXXII
+422161237065990144  Jan 11 18:20  @BioMath          RT @GenomeBiology: KJ: wheat D subgenome has reduced diversity and greater tendancy for rarer alleles compared with A and B subgenomes #PAGXXII
+422161267457916928  Jan 11 18:21  @KTInvasion       @jrossibarra and what is the recommended annual intake? How impressed can one be? #PAGXXII
+422161271648051200  Jan 11 18:21  @JChrisPires      RT @pop_gen_JED: .@KristaTernus sequencing allows us to no longer depend on LD. Genomic prediction relies on LD. #PAGXXII
+422161355295035392  Jan 11 18:21  @JChrisPires      RT @GenomeBiology: Matthew Moscou: host species specificity of wheat stripe rust is conditioned by a few major resistance genes in barley #PAGXXII
+422161394382147584  Jan 11 18:21  @sforetweet       RT @noituloveand: SA: assisted gene flow via giant sequoia gift trees at #SFO #pagxxii  #sciencehumor
+422161404490051584  Jan 11 18:21  @JChrisPires      RT @KristaTernus: Ben Hayes is imputing sequence data in dairy cattle with the 1000 Bull Genomes Project Data Set. #PAGXXII
+422161449247457282  Jan 11 18:21  @JChrisPires      RT @infoecho: Davide Scaglione: two good citrus reference ~ 300 to 330 Mb genome  #PAGXXII
+422161476862742528  Jan 11 18:21  @JChrisPires      RT @KristaTernus: Ben Hayes says genomic prediction allows us to no longer depend on genotyped SNPs being in LD with causative SNP. #yay #PAGXXII
+422161548564381696  Jan 11 18:22  @JChrisPires      RT @tanghaibao: Bernie Wone: JTK-cycle algorithm and model-based clustering on 72h transcriptome to find rhythmic genes. #PAGXXII
+422161590838779904  Jan 11 18:22  @tanghaibao       David Schwartz: nanocoding works like this - enzymes nick one strand, bring in Pol I and fluro-nucleotides labels nick sites #PAGXXII
+422161639933104128  Jan 11 18:22  @JChrisPires      RT @plaza_genomics: Thanks to @GenomeBiology @tanghaibao @JChrisPires , and soon @YvesVandePeer ;-), for the #PAGXXII plant tweets!
+422161688587018240  Jan 11 18:22  @globalrust       David Marshall, @USDA_ARS Everyone has to take a part in stewardship: breeders, farmers, agronomists and the consumer #PAGXXII
+422161757419741184  Jan 11 18:23  @JChrisPires      RT @tanghaibao: Xiaohan Yang: convergent evolution in regulatory mechanism of Agave, Kalanchoe and ice plant. CAM machinery itself is ancient. #PAGXXII
+422161785890668544  Jan 11 18:23  @JChrisPires      RT @kevinfolta: At the Plant/Animal Genome Conference, day 1, before noon, I've heard "PETABYTE" too many times to be comfortable. #PAGXXII
+422161823152889856  Jan 11 18:23  @gmodproject      All coelocanth papers (coming out next month) will be open access #pagxxii 
+422161832598441985  Jan 11 18:23  @JChrisPires      RT @UMNPlantPath: "Precise Engineering of Plant Genomes" by #UMN Prof Dan Voytas TODAY at #PAGXXII (3:10pm Pacific Salon 4-5)
+422161885836767232  Jan 11 18:23  @hpcprogrammer    Hey #PAGXXII got large data sets to analyze?
+422161915712794624  Jan 11 18:23  @JChrisPires      RT @johnlogsdon: Interesting talk on deleterious mutations in maize from Jeffrey Ross-Ibarra @jrossibarra #PAGXXII
+422161961573298177  Jan 11 18:23  @JChrisPires      RT @Hairy_Llama: Huge room for the GWAS session, and completely full. Guess its popular then? #PAGXXII
+422162065201963008  Jan 11 18:24  @infoecho         DS shows mapping cluster and wants to do 50 Humna Genomes maping/Day  #PAGXXII
+422162078212702208  Jan 11 18:24  @JChrisPires      RT @GenomeBiology: Sarah McKim: HvAP2 regulates developmental transition of spikelet growth in barley through miRNA and hormonal pathways #PAGXXII
+422162125595762688  Jan 11 18:24  @JChrisPires      RT @tanghaibao: Matthew Hufford: highland adaptations through introgression from wild relative. HAPMIX - admixed chromosomes models as mosaics #PAGXXII
+422162158210650113  Jan 11 18:24  @VirginiaGewin    Several projects are underway to accelerate identification and use valuable alleles from crop wild relatives, Rieseberg #PAGXXII
+422162168767733760  Jan 11 18:24  @JChrisPires      RT @taybiob5: Introducing Twitter to your scientists friends http://bit.ly/Y0oHtu #PAGXXII
+422162201974018050  Jan 11 18:24  @globalrust       Marshall showing pic of wheat with stripe, stem and leaf rust.  Didn't know that could happen #rusthattrick #PAGXXII
+422162209536348160  Jan 11 18:24  @JChrisPires      RT @gregbaute: Post talk fish tacos and sunshine makes me happy. Also hummingbirds. Maize workshop now #PAGXXII
+422162220898738176  Jan 11 18:24  @hutchins_e       using the coelacanth as a model to study tetrapod evolution - it's nice when you already have the #nature paper #PAGXXII
+422162284345958401  Jan 11 18:25  @JChrisPires      RT @jrossibarra: Ed Buckler: aim to predict phenotypic consequence of every bp. #PAGXXII
+422162296891523072  Jan 11 18:25  @danmaclean       Adaptree http://adaptree.sites.olt.ubc.ca/ #PAGXXII
+422162319506829312  Jan 11 18:25  @JChrisPires      RT @gregbaute: Now Ed Buckler #PAGXXII Ironing out the bugs in GBS. Gluing together maize community.
+422162368802471936  Jan 11 18:25  @John_B_Cole      Hello, #PAGXXII , glad to be here!
+422162402637934592  Jan 11 18:25  @plantscience     RT @VirginiaGewin: Several projects are underway to accelerate identification and use valuable alleles from crop wild relatives, Rieseberg #PAGXXII
+422162639892914177  Jan 11 18:26  @fstrozzi         DS: Transition from BigData to BigExperiments, same as informatics evolved from low level to high level programming languages #PAGXXII
+422162889382719488  Jan 11 18:27  @VirginiaGewin    Most of the increased yields of Green Revolution occurred during a period of atypical climate stability, Graham King #PAGXXII
+422163274239455232  Jan 11 18:29  @KTInvasion       Yves Vigouroux: test of 8 methods to find adaptation along environmental gradients #PAGXXII
+422163335610511360  Jan 11 18:29  @johnlogsdon      Jason Stajich @hyphaltip up next talking about 1000 fungal genomes project 1KFG. #PAGXXII
+422163492947238912  Jan 11 18:29  @johnlogsdon      RT @gmodproject: All coelocanth papers (coming out next month) will be open access #pagxxii 
+422163580713050113  Jan 11 18:30  @isugif           RT @tanghaibao: Matthew Hufford: highland adaptations through introgression from wild relative. HAPMIX - admixed chromosomes models as mosaics #PAGXXII
+422163661801521152  Jan 11 18:30  @KTInvasion       YV: false positives a serious problem when looking at natural populations #PAGXXII
+422163740587327488  Jan 11 18:30  @isugif           RT @kevinfolta: At the Plant/Animal Genome Conference, day 1, before noon, I've heard "PETABYTE" too many times to be comfortable. #PAGXXII
+422163856970883072  Jan 11 18:31  @jrossibarra      Yves Vigouroux using QuantiNemo to test adaptation methods. Cool! #PAGXXII   http://www2.unil.ch/popgen/softwares/quantinemo/
+422164212484698112  Jan 11 18:32  @isugif           RT @jrossibarra: Ed Buckler: aim to predict phenotypic consequence of every bp. #PAGXXII
+422164376896811008  Jan 11 18:33  @plantscience     RT @VirginiaGewin: Most of the increased yields of Green Revolution occurred during a period of atypical climate stability, Graham King #PAGXXII
+422164513496920064  Jan 11 18:33  @isugif           RT @noituloveand: #MaSuRCA assembly of pine genome taking 3 months, but outperforming others in #gage, exc. ALLPATHS.  #pagxxii
+422164561651724288  Jan 11 18:34  @isugif           RT @Floragenex: Nice talk on GWAS with RAD-SEQ in Grasslands Workshop. #PAGXXII
+422164738345156609  Jan 11 18:34  @isugif           RT @fstrozzi: Last speaker Dirkjan Schokker from Wageningen U talking about the interplay between the #microbiome and the gene expr of the host #PAGXXII
+422165139580669952  Jan 11 18:36  @kdpru            #PAGXXII McLeod using rnaseq, orthologs to ID genes missing from horse genome. Plans for eqcab3 #genomemaintenance
+422165144039215104  Jan 11 18:36  @JChrisPires      Harmut Foerster from @BTIscience @solgenomics on #plant #metabolic networks: see http://www.metacyc.org #PAGXXII
+422165182157053952  Jan 11 18:36  @GigaScience      Or publish? http://www.gigasciencejournal.com/authors/instructions/datanote RT @hpcprogrammer: Hey #PAGXXII got large data sets to analyze?
+422165183385976832  Jan 11 18:36  @danmaclean       RT @jrossibarra: Yves Vigouroux using QuantiNemo to test adaptation methods. Cool! #PAGXXII   http://www2.unil.ch/popgen/softwares/quantinemo/
+422165189543624705  Jan 11 18:36  @isugif           RT @JChrisPires: MB: Did 9-way whole #genome multiple alignment and PhastCons to find CNA in Haudry et al 2013 @Nature #Genetics 45: 891 #Brassica #PAGXXII
+422165248469401600  Jan 11 18:36  @isugif           RT @JChrisPires: MB: We sequenced 3 more #genome - Aethionema, Sisymbrium, and Leavenworthia in Haudry et al 2013 @Nature #Genetics 45:891 #Brassica #PAGXXII
+422165319097262081  Jan 11 18:37  @isugif           RT @JChrisPires: Good "chicken and egg" question for @Woodhouse_M on which came first - fractionation or gene silencing ? #Brassica #PAGXXII
+422165480065867777  Jan 11 18:37  @GigaScience      RT @tanghaibao: Kenneth McNally: existing rice portals, MSU, RAP-DB, BGI-RIS, PlantGDB, Gramene. We need Rice Information Portal, however not "RIP" #PAGXXII
+422165506615808000  Jan 11 18:37  @jrossibarra      Yves Vigouroux showing some methods (which?? can’t read labels) suck detecting adaptation. Environ correl. methods esp. (high FP). #PAGXXII
+422165517579726848  Jan 11 18:37  @isugif           RT @VirginiaGewin: Grape evolution is hard to figure out. We think North America is where originated bc most genetic diversity is found, Angela Baldo #PAGXXII
+422165522357026816  Jan 11 18:37  @danmaclean       RT @GigaScience: Or publish? http://www.gigasciencejournal.com/authors/instructions/datanote RT @hpcprogrammer: Hey #PAGXXII got large data sets to analyze?
+422165684999581697  Jan 11 18:38  @JChrisPires      Kate Dreher with Sue Rhee at Carnegie speaking http://www.plantcyc.org for #plant #metabolic #network with #Arabidopsis and others #PAGXXII
+422165895570407425  Jan 11 18:39  @hutchins_e       gene annotation in fungi - using #CEGMA for QC and training ab initio gene predictions #PAGXXII @hyphaltip
+422166239687892993  Jan 11 18:40  @hpcprogrammer    .@infoecho you should come to NRSP-8 Animal Genome session! #PAGXXII
+422166345870876673  Jan 11 18:41  @noituloveand     YV: no surprise here - sampling less inds. in more pops > sampling more inds. in less pops. #pagxxii
+422166400233250817  Jan 11 18:41  @johnlogsdon      Jason @hyphaltip now talking about multiple transitions to multicelluarity in fungi. Super cool. #PAGXXII
+422166456831201280  Jan 11 18:41  @VirginiaGewin    Unknown how much crop selection has already harnessed epi-alleles. In exp phase: use epigenetic info 2 guide crop improvement, King #PAGXXII
+422166563358134272  Jan 11 18:42  @globalrust       Jeff Ellis, @CSIROnews giving an australian perspective on gene stewardship.  I'm hoping beer is involved. #PAGXXII
+422166858742001664  Jan 11 18:43  @globalrust       Ellis, with other Australian researchers, was a recipient of the 2013 BGRI gene stewardship award #PAGXXII
+422167037079592960  Jan 11 18:43  @KTInvasion       YV: differentiation methods (fst) conservative, but correlation methods powerful/efficient. More pops better than more indiv #PAGXXII
+422167038891536384  Jan 11 18:44  @kseniakrasileva  Jeff Ellis speaking about wheat stem rust #PAGXXII
+422167447362215936  Jan 11 18:45  @tanghaibao       Sergio Lucretti: FISHI sorted wheat chromosomes can be used for Illumina sequencing #PAGXXII
+422167659011006464  Jan 11 18:46  @gmodproject      Great talk from Jason Stajich on comparative fungal genomic a! #PAGXXII
+422167663427596288  Jan 11 18:46  @globalrust       Ellis: do we have enough stem rust resistance genes? #PAGXXII
+422167849709207554  Jan 11 18:47  @kseniakrasileva  JE highlights the importance of not growing susceptible wheats alongside resistant varieties. Gives pathogen less chance to mutate #PAGXXII
+422167987634700288  Jan 11 18:47  @hyphaltip        RT @johnlogsdon: Jason @hyphaltip now talking about multiple transitions to multicelluarity in fungi. Super cool. #PAGXXII
+422168015480684545  Jan 11 18:47  @hyphaltip        RT @hutchins_e: gene annotation in fungi - using #CEGMA for QC and training ab initio gene predictions #PAGXXII @hyphaltip
+422168270607634432  Jan 11 18:48  @JChrisPires      RT @kseniakrasileva: JE highlights the importance of not growing susceptible wheats alongside resistant varieties. Gives pathogen less chance to mutate #PAGXXII
+422168310088597504  Jan 11 18:49  @JChrisPires      RT @VirginiaGewin: Most of the increased yields of Green Revolution occurred during a period of atypical climate stability, Graham King #PAGXXII
+422168330410000384  Jan 11 18:49  @gmodproject      Next up: sacred lotus genome. 1300 year old seeds can germinate! #PAGXXII
+422168344125382656  Jan 11 18:49  @UMNPlantPath     RT @globalrust: Ellis: do we have enough stem rust resistance genes? #PAGXXII
+422168353243795456  Jan 11 18:49  @JChrisPires      RT @gmodproject: Great talk from Jason Stajich on comparative fungal genomic a! #PAGXXII
+422168370461429760  Jan 11 18:49  @JChrisPires      RT @tanghaibao: Sergio Lucretti: FISHI sorted wheat chromosomes can be used for Illumina sequencing #PAGXXII
+422168417680908288  Jan 11 18:49  @JChrisPires      RT @VirginiaGewin: Unknown how much crop selection has already harnessed epi-alleles. In exp phase: use epigenetic info 2 guide crop improvement, King #PAGXXII
+422168447418515456  Jan 11 18:49  @JChrisPires      RT @globalrust: Jeff Ellis, @CSIROnews giving an australian perspective on gene stewardship.  I'm hoping beer is involved. #PAGXXII
+422168517857669120  Jan 11 18:49  @gmodproject      Lotus seeds also look pretty awesome #PAGXXII
+422168531535269888  Jan 11 18:49  @infoecho         Charles Wu from http://www.intactgenomics.com on Unbiased BAC Next-Gen Sequencing next #AnalysisOfComplexGenome #PAGXXII
+422168664939302912  Jan 11 18:50  @JChrisPires      RT @johnlogsdon: Jason @hyphaltip now talking about multiple transitions to multicelluarity in fungi. Super cool. #PAGXXII
+422168665476571136  Jan 11 18:50  @vaccandgenes     RT @VirginiaGewin: Unknown how much crop selection has already harnessed epi-alleles. In exp phase: use epigenetic info 2 guide crop improvement, King #PAGXXII
+422168699705913345  Jan 11 18:50  @johnlogsdon      RT @gmodproject: Next up: sacred lotus genome. 1300 year old seeds can germinate! #PAGXXII
+422168713672937472  Jan 11 18:50  @JChrisPires      RT @hutchins_e: gene annotation in fungi - using #CEGMA for QC and training ab initio gene predictions #PAGXXII @hyphaltip
+422168748695384065  Jan 11 18:50  @JChrisPires      RT @jrossibarra: Yves Vigouroux showing some methods (which?? can’t read labels) suck detecting adaptation. Environ correl. methods esp. (high FP). #PAGXXII
+422168804198608896  Jan 11 18:51  @sjackman         RT @GenomeBC: Registered for Canadian Genome Centre networking event at #PAGXXII? See you between 5:30 & 8:30. Look for Canadian flags at Tiki pavilion.
+422168883231879168  Jan 11 18:51  @JChrisPires      RT @gmodproject: Next up: sacred lotus genome. 1300 year old seeds can germinate! #PAGXXII
+422168948478468096  Jan 11 18:51  @gmodproject      Lotus tissues can thermoregulate #PAGXXII
+422168953851355136  Jan 11 18:51  @JChrisPires      RT @hutchins_e: using the coelacanth as a model to study tetrapod evolution - it's nice when you already have the #nature paper #PAGXXII
+422169076010471424  Jan 11 18:52  @JChrisPires      RT @VirginiaGewin: Several projects are underway to accelerate identification and use valuable alleles from crop wild relatives, Rieseberg #PAGXXII
+422169097271402496  Jan 11 18:52  @VirginiaGewin    Roots are important to climate resilience--flooding, salinity, metal toxicity. Need to improve roots, Antonio Costa de Oliveira, #PAGXXII
+422169105571917825  Jan 11 18:52  @JChrisPires      RT @gmodproject: All coelocanth papers (coming out next month) will be open access #pagxxii 
+422169144365039616  Jan 11 18:52  @infoecho         CW: Intact Genomics is focusing on large DNA prep, purification, manipulation and cloning #PAGXXII
+422169197355864064  Jan 11 18:52  @gmodproject      920mb genome size #PAGXXII
+422169225185087488  Jan 11 18:52  @KTInvasion       RT @jrossibarra: Yves Vigouroux showing some methods (which?? can’t read labels) suck detecting adaptation. Environ correl. methods esp. (high FP). #PAGXXII
+422169328515969026  Jan 11 18:53  @gmodproject      Starting to feel a little lotus envy here... #PAGXXII
+422169417779138560  Jan 11 18:53  @hutchins_e       @gmodproject and lotus roots are tasty! #PAGXXII
+422169774592761856  Jan 11 18:54  @kseniakrasileva  JE: Stacking resistance genes is essential to get ahead of the pathogen #PAGXXII
+422169971297239040  Jan 11 18:55  @DialogBDP        #PAGXXII PAG coordinated preBreeding is needed to get more resistance gene diversity and durable resistance says D.S. Marshal, USDA-ARS
+422170083473887233  Jan 11 18:56  @infoecho         CW shows gel images representing unbiased Random Shear BAC library better than the library contructed restriction digestion #PAGXXII
+422170348411318272  Jan 11 18:57  @danmaclean       RT @johnlogsdon: Jason @hyphaltip now talking about multiple transitions to multicelluarity in fungi. Super cool. #PAGXXII
+422170802339856385  Jan 11 18:58  @tanghaibao       Cheng-Cang Wu (from Intact Genomics in St. Louis): random shear BAC libraries vs. partial digest libraries #PAGXXII @chengcangwu
+422170866437197825  Jan 11 18:59  @danmaclean       #PAGXXII Luke Evans describing cool pipeline for id’ing loci under pos selection for environmental adaptive trait from reseq in populus.
+422170944967172096  Jan 11 18:59  @pop_gen_JED      RT @kseniakrasileva: JE: Stacking resistance genes is essential to get ahead of the pathogen #PAGXXII
+422171422283165696  Jan 11 19:01  @evilsmaug        #PAGXXII Barry Moore: "Ray Ming has the coolest genome in this whole conference: the sacred lotus flower"
+422171559697342464  Jan 11 19:01  @EveEmshwiller    RT @gregbaute: Now Ed Buckler #PAGXXII Ironing out the bugs in GBS. Gluing together maize community.
+422171660834205696  Jan 11 19:02  @KristaTernus     Bioinformatics grad student Rob Schaefer is up soon in the #PAGXXII Equine Session. This is his first time to PAG!
+422171882683498496  Jan 11 19:03  @jaspvj           Some really interesting #PAGXXII tweets tonight
+422171886563246080  Jan 11 19:03  @kevinfolta       @rsaik  One thousand terabytes, which is one trillion megabites. Modern genomics produces data collections approaching this scale. #PAGXXII
+422172019052920832  Jan 11 19:03  @Hairy_Llama      Population conservation genomics session: Next up, Oliver Ryder: Condor conservation management. I have project envy #PAGXXII
+422172081661304832  Jan 11 19:04  @infoecho         CW uses #Illumina & #PacBio to sequence random sheared BAC lib. of Arabidopsis #PAGXXII
+422172089743704064  Jan 11 19:04  @gmodproject      Lotus genome publication is also an over achiever with 71 authors! #PAGXXII
+422172393558122497  Jan 11 19:05  @GenomeBiology    Blake Meyers: grass genomes have much higher numbers of phasiRNA compared with Arabidopsis #PAGXXII
+422172424180727808  Jan 11 19:05  @infoecho         CW 12 Gaps are closed in Arabidoposis reference (TAIR10) using the BAC lib #PAGXXII
+422173116073132032  Jan 11 19:08  @globalrust       Lida Derevnina from @UCDavisPlants up next about genomics of downny mildews and rusts #PAGXXII
+422173121890627584  Jan 11 19:08  @Hairy_Llama      OR: Aim of Condor population management, so knowing which were male and females was useful :D #PAGXXII
+422173220003786752  Jan 11 19:08  @gmodproject      Next : loblolly pine genome & pinerefseq. 22GB genome. ZOMG! #PAGXXII
+422173480054845440  Jan 11 19:09  @JChrisPires      Looks like #PAGXXII session on Analysis of Complex #Genomes is running 10 minutes late...
+422173520936714240  Jan 11 19:09  @kseniakrasileva  Lisa Derevnina speaking about oomycete and rusts genomics #PAGXXII
+422173540876431360  Jan 11 19:09  @JChrisPires      RT @gmodproject: Next : loblolly pine genome & pinerefseq. 22GB genome. ZOMG! #PAGXXII
+422173607469400064  Jan 11 19:10  @JChrisPires      RT @globalrust: Lida Derevnina from @UCDavisPlants up next about genomics of downny mildews and rusts #PAGXXII
+422173645453012992  Jan 11 19:10  @drhansdd         Ryder Using genomics and sequencing to save the California Condor #PAGXXII
+422173657394200576  Jan 11 19:10  @JChrisPires      RT @GenomeBiology: Blake Meyers: grass genomes have much higher numbers of phasiRNA compared with Arabidopsis #PAGXXII
+422173679183613953  Jan 11 19:10  @globalrust       Derevnina was a BGRI Women in Triticum award winner in 2012 http://www.bgriwit.org #PAGXXII
+422173721256681472  Jan 11 19:10  @JChrisPires      RT @kevinfolta: @rsaik  One thousand terabytes, which is one trillion megabites. Modern genomics produces data collections approaching this scale. #PAGXXII
+422173777439383552  Jan 11 19:10  @UCDavisPlants    RT @globalrust: Lida Derevnina from @UCDavisPlants up next about genomics of downny mildews and rusts #PAGXXII
+422173781285539840  Jan 11 19:10  @JChrisPires      RT @evilsmaug: #PAGXXII Barry Moore: "Ray Ming has the coolest genome in this whole conference: the sacred lotus flower"
+422173788118081536  Jan 11 19:10  @evilsmaug        #PAGXXII loblolly pine 22gb megagenome requires haplo-diplo sequencing strategy
+422173917294235649  Jan 11 19:11  @JChrisPires      RT @evilsmaug: #PAGXXII loblolly pine 22gb megagenome requires haplo-diplo sequencing strategy
+422174351383752704  Jan 11 19:13  @tanghaibao       Yuannian Jiao (first author on Nature 2012 pan-angio/pan-seed WGD): integrate syntenic and phylogenomic methods in WGD #PAGXXII @jiaoyn
+422174351400509440  Jan 11 19:13  @JChrisPires      Yuannian Jiao @jiaoyn up next in complex #genome session at #PAGXXII on how to detect ancient polyploidy; whole genome duplications (WGD)
+422174408916996096  Jan 11 19:13  @tanghaibao       RT @evilsmaug: #PAGXXII Barry Moore: "Ray Ming has the coolest genome in this whole conference: the sacred lotus flower"
+422174459340922880  Jan 11 19:13  @johnlogsdon      RT @evilsmaug: #PAGXXII loblolly pine 22gb megagenome requires haplo-diplo sequencing strategy
+422174599837532160  Jan 11 19:14  @JChrisPires      Yuannian Jiao (YJ) @jiaoyn on using #genome #transcriptome and/or gene family phylogenies to detect WGD #PAGXXII
+422174700244975616  Jan 11 19:14  @noituloveand     OR: “troubling results?”  no prob - we’ll just genotype all members of the species.  #pagxxii #nbd
+422175030328299520  Jan 11 19:15  @hyphaltip        Jill Wegrzyn : conifer genomes are BIG ... Reducing the data to super reads to 52 Gb made the assembly more feasible(!) from 16By #PAGXXII
+422175127950729216  Jan 11 19:16  @JChrisPires      YJ @jiaoyn : reviewing whole #genome #duplications in grasses (Tang 2010 PNAS) and banana (D'Hont 2012 #Nature ) #PAGXXII
+422175463054639104  Jan 11 19:17  @tanghaibao       Yuannian Jiao: synteny first then use phylogenomic approach to time syntelog divergence. Xyloglucan endotransglycosylase example #PAGXXII
+422175597280768001  Jan 11 19:18  @JChrisPires      YJ: grass, banana, palm share a WGD per OrthoMCL of genes in sequenced monocot genomes #PAGXXII
+422175733050380288  Jan 11 19:18  @plantscience     RT @GenomeBiology: Blake Meyers: grass genomes have much higher numbers of phasiRNA compared with Arabidopsis #PAGXXII
+422175882875138048  Jan 11 19:19  @hyphaltip        RT @JChrisPires: YJ: grass, banana, palm share a WGD per OrthoMCL of genes in sequenced monocot genomes #PAGXXII
+422175938109902848  Jan 11 19:19  @JChrisPires      YJ: rho & sigma WGD in all grasses, & tau WGD event shared by all commelinid monocots with palms/banana, banana has 2-3 other WGD #PAGXXII
+422175965104439296  Jan 11 19:19  @emblebi          Find out about our genome annotation resources & free online training @emblebi : tomorrow from 8am in the California Room. #PAGXXII
+422176211654021120  Jan 11 19:20  @tanghaibao       Yuannian Jiao: rho+sigma before grass radiation, tau before grass and Musa/Phoenix/Elaeis split, 3 dups more in Musa, 1 in Phoenix #PAGXXII
+422176228104081408  Jan 11 19:20  @JChrisPires      YJ: after polyploidy, biased gene retention seen in GO categories across monocots, now looking at rice-banana synteny #PAGXXII
+422176230104788992  Jan 11 19:20  @jcorn427         8640 cpus working for 17 hours to run maker 2. That's just nuts. #PAGXXII
+422176458480418816  Jan 11 19:21  @kdpru            Ryder genotyping condor population, genome sequencing to ID developmental disease marker- balancing diversity and conservation  #PAGXXII
+422176744947212288  Jan 11 19:22  @tanghaibao       Yuannian Jiao: now enumerate evidence in support of tau, showing circos plot and tree side by side #PAGXXII
+422176870897942528  Jan 11 19:23  @johnlogsdon      Loblolly pine has some monster introns 100kb+ #pagxxii
+422176905324806144  Jan 11 19:23  @JChrisPires      YJ: banana has three independent WGD events not in rice or sorhum, so after tau event (consistent with Musa genome paper) #PAGXXII
+422177089995825152  Jan 11 19:23  @kdpru            RT @noituloveand: OR: “troubling results?”  no prob - we’ll just genotype all members of the species.  #pagxxii #nbd
+422177208719781888  Jan 11 19:24  @JChrisPires      YJ: Palm also has independent WGD not in Banana that is after tau WGD event #PAGXXII
+422177268815769600  Jan 11 19:24  @JChrisPires      RT @johnlogsdon: Loblolly pine has some monster introns 100kb+ #pagxxii
+422177285714608128  Jan 11 19:24  @SallyNAitken     OR: Condors in museum collections don't have a great geographic representation as every collector went to Monterey to shoot one. #PAGXXII
+422177287534960640  Jan 11 19:24  @Hairy_Llama      OR: Everyone went to Monterey to get their condor museum specimens, so not a good representative for genetic diversity. #PAGXXII
+422177323052318720  Jan 11 19:24  @JChrisPires      RT @tanghaibao: Yuannian Jiao: now enumerate evidence in support of tau, showing circos plot and tree side by side #PAGXXII
+422177331734929408  Jan 11 19:24  @VaillancourtLab  RT @globalrust: Lida Derevnina from @UCDavisPlants up next about genomics of downny mildews and rusts #PAGXXII
+422177348780183552  Jan 11 19:24  @GenomeBiology    Robert Sullivan: extracellular microvesicles secreted in the epididymal lumen vary in protein composition along the epididymis #PAGXXII
+422177363510968321  Jan 11 19:25  @JChrisPires      RT @kdpru: Ryder genotyping condor population, genome sequencing to ID developmental disease marker- balancing diversity and conservation  #PAGXXII
+422177415457034240  Jan 11 19:25  @evilsmaug        #PAGXXII pine genome 70% repeats! #holycow
+422177482242940928  Jan 11 19:25  @JChrisPires      RT @jcorn427: 8640 cpus working for 17 hours to run maker 2. That's just nuts. #PAGXXII
+422177572911198208  Jan 11 19:25  @JChrisPires      RT @hyphaltip: Jill Wegrzyn : conifer genomes are BIG ... Reducing the data to super reads to 52 Gb made the assembly more feasible(!) from 16By #PAGXXII
+422177635397955584  Jan 11 19:26  @JChrisPires      RT @danmaclean: #PAGXXII Luke Evans describing cool pipeline for id’ing loci under pos selection for environmental adaptive trait from reseq in populus.
+422177698090205185  Jan 11 19:26  @Genohub          Up next, Jin: Fungal Small RNAs Suppress Plant Host Immunity by Hijacking Host RNAi Machinery #PAGXXII #NGS
+422177781682683904  Jan 11 19:26  @jcorn427         I wonder if a similar sequencing strategy as the loblolly pine could be used to tackle the Ambystoma genome? #PAGXXII
+422177992689721345  Jan 11 19:27  @VaillancourtLab  RT @kseniakrasileva: JE highlights the importance of not growing susceptible wheats alongside resistant varieties. Gives pathogen less chance to mutate #PAGXXII
+422178009245040640  Jan 11 19:27  @idjoly           RT @danmaclean: #PAGXXII Sally aitken - assisted gene flow - moving selected individuals around place to improve local genetic diversity.
+422178030358786048  Jan 11 19:27  @VaillancourtLab  RT @hutchins_e: gene annotation in fungi - using #CEGMA for QC and training ab initio gene predictions #PAGXXII @hyphaltip
+422178174525403136  Jan 11 19:28  @Genohub          RT @hyphaltip: Jill Wegrzyn : conifer genomes are BIG ... Reducing the data to super reads to 52 Gb made the assembly more feasible(!) from 16By #PAGXXII
+422178252442959872  Jan 11 19:28  @evilsmaug        RT @johnlogsdon: Loblolly pine has some monster introns 100kb+ #pagxxii
+422178327659433984  Jan 11 19:28  @evilsmaug        RT @jcorn427: 8640 cpus working for 17 hours to run maker 2. That's just nuts. #PAGXXII
+422178415991455744  Jan 11 19:29  @VaillancourtLab  RT @globalrust: Marshall showing pic of wheat with stripe, stem and leaf rust.  Didn't know that could happen #rusthattrick #PAGXXII
+422178476737572864  Jan 11 19:29  @KristaTernus     Rob Schaefer is talking about haplotype discovery, imputation, and resources for the equine genome. #PAGXXII
+422178482844491776  Jan 11 19:29  @VaillancourtLab  RT @johnlogsdon: Interesting talk on deleterious mutations in maize from Jeffrey Ross-Ibarra @jrossibarra #PAGXXII
+422178668777979904  Jan 11 19:30  @KTInvasion       Jill Wegryzn shows a sweet gene family Venn diagram for loblolly pine, with adorable drawing of pine tree in the middle. #PAGXXII
+422178791067107328  Jan 11 19:30  @CrowdedHead      RT @jaspvj: Some really interesting #PAGXXII tweets tonight
+422178837959417857  Jan 11 19:30  @Genohub          Thomson: mutant, fuzzy tassel (fzt) contains mutation in DICER-LIKE1, a key enzyme required for miRNA biogenesis in plants #PAGXXII
+422179035960336384  Jan 11 19:31  @globalrust       Simon Krattinger, @uzh_news_en, asking why are durable resistance genes durable? #PAGXXII
+422179304856748033  Jan 11 19:32  @KTInvasion       JW's Venn diagram reminds me of the banana genome paper http://alienplantation.wordpress.com/2012/07/12/this-sht-is-bananas/ #PAGXXII
+422179313497038848  Jan 11 19:32  @gmodproject      TreeGenes uses #WebApollo for community annotation #PAGXXII
+422179754205130752  Jan 11 19:34  @johnlogsdon      Would be great if people would be quieter when transitioning between sessions at #PAGXXII
+422179967770697728  Jan 11 19:35  @gmodproject      Thought it was pine? ;-)  “@jcorn427 8640 cpus working for 17 hours to run maker 2. That's just nuts." #PAGXXII
+422180103875870720  Jan 11 19:35  @globalrust       Learning today that Lr34 provides durable protection against 4 pathogens #peytonmanningofRgenes #PAGXXII
+422180688553455617  Jan 11 19:38  @KTInvasion       Zev Kronenberg: software package for genotype phenotype associations #PAGXXII
+422181222664523777  Jan 11 19:40  @evilsmaug        #pagxxii GPAT- a unified population genomcs toolkit. Zev Kronenburg
+422181222668713984  Jan 11 19:40  @KristaTernus     Rob's goal is to find 6-8M SNPs for new equine microarray design (currently 54K) with WGS data. #PAGXXII
+422181725356032000  Jan 11 19:42  @KTInvasion       ZK: GPAT suite for probabilistic fst,  likelihood ratio tests for association mapping, as well as pop gen tests #PAGXXII
+422181960035745792  Jan 11 19:43  @globalrust       Krattinger: Lr34 allele most likely originated in china #PAGXXII
+422182080324198400  Jan 11 19:43  @KristaTernus     Rob is emphasizing the importance of quality scores and reducing false positives in variant calls. #PAGXXII
+422182117691240448  Jan 11 19:43  @GenomeBiology    Beth Thompson: identified dcl1 mutant in maize that has defects in known miRNA-regulated processes #PAGXXII
+422182711948636161  Jan 11 19:46  @DrHikov          Scientists get together to share ideas for Basic Research to Enable #AgDev organised by @gatesfoundation #PAGXXII http://t.co/a1l9Oky39e
+422182752218132480  Jan 11 19:46  @laurastephen     RT @emblebi: Find out about our genome annotation resources & free online training @emblebi : tomorrow from 8am in the California Room. #PAGXXII
+422182785764171776  Jan 11 19:46  @Genohub          Pine reference genome assembly provided by the PineRefSeq project: http://pinegenome.org/pinerefseq #PAGXXII
+422183057135652864  Jan 11 19:47  @JB_McHugh_7337   RT @gmodproject: All coelocanth papers (coming out next month) will be open access #pagxxii 
+422183255279173632  Jan 11 19:48  @EveEmshwiller    RT @JChrisPires: Yuannian Jiao (YJ) @jiaoyn on using #genome #transcriptome and/or gene family phylogenies to detect WGD #PAGXXII
+422183392248356864  Jan 11 19:48  @EveEmshwiller    RT @JChrisPires: YJ @jiaoyn : reviewing whole #genome #duplications in grasses (Tang 2010 PNAS) and banana (D'Hont 2012 #Nature ) #PAGXXII
+422183473030647809  Jan 11 19:49  @EveEmshwiller    RT @JChrisPires: YJ: rho & sigma WGD in all grasses, & tau WGD event shared by all commelinid monocots with palms/banana, banana has 2-3 other WGD #PAGXXII
+422183476620578816  Jan 11 19:49  @globalrust       Any plans for a #PAGXXII tweet up/meet up during this week?
+422183520375955457  Jan 11 19:49  @EveEmshwiller    RT @JChrisPires: YJ: after polyploidy, biased gene retention seen in GO categories across monocots, now looking at rice-banana synteny #PAGXXII
+422183567658323968  Jan 11 19:49  @EveEmshwiller    RT @JChrisPires: YJ: banana has three independent WGD events not in rice or sorhum, so after tau event (consistent with Musa genome paper) #PAGXXII
+422183597920239616  Jan 11 19:49  @EveEmshwiller    RT @JChrisPires: YJ: Palm also has independent WGD not in Banana that is after tau WGD event #PAGXXII
+422183902560542720  Jan 11 19:51  @VirginiaGewin    RT @plantscience: Transnational infrastructure for plant genomic science "transPlant" project being discussed at #PAGXXII http://bit.ly/1ag8Uwg
+422183974220615680  Jan 11 19:51  @EveEmshwiller    RT @jrossibarra: Yves Vigouroux using QuantiNemo to test adaptation methods. Cool! #PAGXXII   http://www2.unil.ch/popgen/softwares/quantinemo/
+422183996252884992  Jan 11 19:51  @globalrust       Common theme in gene stewardship session is all groups need to collaborate&need to know that each group has its own priorities #PAGXXII
+422184569408720897  Jan 11 19:53  @EveEmshwiller    RT @jrossibarra: Buckler showing nigh-100% imputation accuracy in inbreds in maize. Not quite so good (70% at best) in landraces (boo). #PAGXXII
+422184793879502848  Jan 11 19:54  @KristaTernus     Rob mentions there are errors in the current equine reference genome (and every other genome...) #PAGXXII
+422184814439968768  Jan 11 19:54  @KTInvasion       @zevkronenberg GPAT looks cool! What kind of data does it use? Would love to see quantitative traits! #PAGXXII
+422185304489857025  Jan 11 19:56  @JChrisPires      Sam Seaver @samseaver on #plant #metabolic #networks - is it possible to simulate a genetic phenotype? Over-annotation? @argonne #PAGXXII
+422185873644331009  Jan 11 19:58  @KristaTernus     No technical questions for Rob, but everyone wants to know when they can get the new microarray and how much it costs. #PAGXXII
+422186794893864960  Jan 11 20:02  @JChrisPires      @samseaver using gene trees by @ensembl and not just BLAST for #plant #metabolic #networks http://gramene.org @argonne #PAGXXII
+422186886724349952  Jan 11 20:02  @EveEmshwiller    RT @JChrisPires: As #Brassica has whole #genome triplication (WGT) there are "dominant" and "submissive" subgenomes by @Woodhouse_M #PAGXXII
+422186974448222209  Jan 11 20:03  @EveEmshwiller    RT @JChrisPires: #Arabidopsis #genome duplication can be examined after subsequent  whole #genome triplication (WGT) in #Brassica @Woodhouse_M #PAGXXII
+422187028449484800  Jan 11 20:03  @tanghaibao       Andy Paterson: Panels of 20 diverse sorghum lines and make BC1F4 NAM to study drought resilience in locally-adapted backgrounds #PAGXXII
+422187056161251329  Jan 11 20:03  @GenomeBiology    Hailing Jin: Botrytis cinerea sRNAs act as virulence effectors to suppress plant host immune responses #PAGXXII
+422187237619818496  Jan 11 20:04  @EveEmshwiller    RT @KTInvasion: Angela Baldo: ridiculously reticulate grape sub genus phylogeny #PAGXXII
+422187270632796160  Jan 11 20:04  @JChrisPires      Sam Seaver @samseaver At a minimum, we expect #plant #metabolic #models to produce plant biomass! @argonne #PAGXXII
+422187630940266496  Jan 11 20:05  @JChrisPires      Sam Seaver @samseaver PlantSeed is online: see http://plantseed.theseed.org #plant #genome @argonne #PAGXXII
+422187838193422336  Jan 11 20:06  @KristaTernus     Now we've transitioned to watching a heartwarming video about the human relationship with the horse, featuring E Hill. #PAGXXII
+422188253337620481  Jan 11 20:08  @EveEmshwiller    RT @VirginiaGewin: Several projects are underway to accelerate identification and use valuable alleles from crop wild relatives, Rieseberg #PAGXXII
+422188451573010432  Jan 11 20:09  @mkunt4           RT @JChrisPires: Sam Seaver @samseaver At a minimum, we expect #plant #metabolic #models to produce plant biomass! @argonne #PAGXXII
+422188642912980992  Jan 11 20:09  @EveEmshwiller    RT @jrossibarra: Fun watching former pdoc @mbhufford on adaptation in teosinte and highland maize landraces #PAGXXII http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477
+422188708734205952  Jan 11 20:10  @PAGmeeting       Scientific and research attendees - stop by the #PAGXXII #PressRoom to meet with journal and news media – tomorrow @ 12pm.
+422189057100095488  Jan 11 20:11  @SeleneMSC        RT @JChrisPires: As #Brassica has whole #genome triplication (WGT) there are "dominant" and "submissive" subgenomes by @Woodhouse_M #PAGXXII
+422189739941187584  Jan 11 20:14  @foodimprover     Great connector event hosted by @GenomeCanada happening right now in Tiki pavilion at #PAGXXII
+422190360060624897  Jan 11 20:16  @Hairy_Llama      pop con gen: Geoffery Morris: Sorghum bicolor: Can we identify signals of env adaptation directly w/o phenotypes? Yes we can!  #PAGXXII
+422190477022990336  Jan 11 20:17  @gxr              Will talk on genome annotation w/ RNA-seq at #PAGXXII Gene Discovery workshop https://pag.confex.com/pag/xxii/webprogram/Session2128.html. Time to finish slides.. #mGene #MiTie
+422192064382500865  Jan 11 20:23  @KristaTernus     RT @CSciBio: Adding slides an hour before you talk just means you're presenting some hot data #PAGXXII
+422192251226165248  Jan 11 20:24  @SallyNAitken     Geoffrey Morris: Compelling case for importance of genotype-climate associations (GEO-GWAS) for staple food crops like sorghum #PAGXXII
+422192389839519744  Jan 11 20:24  @SallyNAitken     RT @Hairy_Llama: pop con gen: Geoffery Morris: Sorghum bicolor: Can we identify signals of env adaptation directly w/o phenotypes? Yes we can!  #PAGXXII
+422193895439872000  Jan 11 20:30  @vpineyro         RT @VirginiaGewin: Most of the increased yields of Green Revolution occurred during a period of atypical climate stability, Graham King #PAGXXII
+422194503168962560  Jan 11 20:33  @isugif           RT @sr320: #PAGXXII #Aquaculture Genomics Workshop Travel Award deadline Oct 15- to be eligible abstract needs to be in today! http://eagle.fish.washington.edu/aqua_pag/
+422194539361611776  Jan 11 20:33  @PhilippBayer     RT @JChrisPires: Sam Seaver @samseaver PlantSeed is online: see http://plantseed.theseed.org #plant #genome @argonne #PAGXXII
+422194584114835456  Jan 11 20:33  @Genohub          RT @SallyNAitken: Geoffrey Morris: Compelling case for importance of genotype-climate associations (GEO-GWAS) for staple food crops like sorghum #PAGXXII
+422194774766915584  Jan 11 20:34  @mcaccamo         RT @GenomeBiology: Blake Meyers: grass genomes have much higher numbers of phasiRNA compared with Arabidopsis #PAGXXII
+422195976254681089  Jan 11 20:38  @ClockworkViridi  RT @BaxterTwi: The Baxter lab is looking for a talented postdoc in the genetics and informatics interface. Join us! #PAGXXII http://danforthcenter.org/about/careers/jobdescription/postdoctoral-associate---baxter-lab
+422200973499453440  Jan 11 20:58  @samseaver        RT @JChrisPires: Sam Seaver @samseaver PlantSeed is online: see http://plantseed.theseed.org #plant #genome @argonne #PAGXXII
+422206255197720576  Jan 11 21:19  @KerriNeugebauer  RT @bluessherpa: Prepping for talk #1 @ #PAGXXII. Got candidates for AVR genes in leaf rust!!! #fellerslab http://t.co/YrS6EF3AWP
+422206742227738625  Jan 11 21:21  @creativelis      RT @plantscience: Transnational infrastructure for plant genomic science "transPlant" project being discussed at #PAGXXII http://bit.ly/1ag8Uwg
+422206933895249921  Jan 11 21:22  @creativelis      RT @BGI_Events: Starting shortly at #PAGXXII, see the 3000 rice genomes project in the Allele Mining track (Golden Ballroom #2098) http://ow.ly/suerf
+422219920957378560  Jan 11 22:14  @samseaver        Best thing about Charlie is that he has Newcastle Brown Ale on tap. #PAGXXII
+422222398835130369  Jan 11 22:23  @ewanbirney       RT @emblebi: Find out about our genome annotation resources & free online training @emblebi : tomorrow from 8am in the California Room. #PAGXXII
+422224713771802624  Jan 11 22:33  @2footgiraffe     Would be great if some of the #PAGXXII meeting was livestreamed or GHO. :)
+422226803399614464  Jan 11 22:41  @GenomeAlberta    RT @assemblathon: #PAGXXII is the hashtag to be following right now.
+422227455798034433  Jan 11 22:44  @KSUBioinforCore  #PAGXXII Check out our poster P725 on physical mapping. We have been a BioNano service provider since 2012. More at http://bioinformatics.k-state.edu/bionano.html.
+422228490386042881  Jan 11 22:48  @JChrisPires      RT @KSUBioinforCore: #PAGXXII Check out our poster P725 on physical mapping. We have been a BioNano service provider since 2012. More at http://bioinformatics.k-state.edu/bionano.html.
+422228554781188096  Jan 11 22:48  @JChrisPires      RT @samseaver: Best thing about Charlie is that he has Newcastle Brown Ale on tap. #PAGXXII
+422228600251617280  Jan 11 22:48  @JChrisPires      RT @SallyNAitken: Geoffrey Morris: Compelling case for importance of genotype-climate associations (GEO-GWAS) for staple food crops like sorghum #PAGXXII
+422228624259833856  Jan 11 22:48  @JChrisPires      RT @gxr: Will talk on genome annotation w/ RNA-seq at #PAGXXII Gene Discovery workshop https://pag.confex.com/pag/xxii/webprogram/Session2128.html. Time to finish slides.. #mGene #MiTie
+422228663833083904  Jan 11 22:48  @JChrisPires      RT @Hairy_Llama: pop con gen: Geoffery Morris: Sorghum bicolor: Can we identify signals of env adaptation directly w/o phenotypes? Yes we can!  #PAGXXII
+422228692673118208  Jan 11 22:48  @JChrisPires      RT @foodimprover: Great connector event hosted by @GenomeCanada happening right now in Tiki pavilion at #PAGXXII
+422229009968017408  Jan 11 22:50  @JChrisPires      Thanks to @GenomeCanada for sponsoring great #science in #plant and #animal #genomics - and annual reception at Tiki pavilion! #PAGXXII
+422229139584606208  Jan 11 22:50  @JChrisPires      RT @tanghaibao: Andy Paterson: Panels of 20 diverse sorghum lines and make BC1F4 NAM to study drought resilience in locally-adapted backgrounds #PAGXXII
+422229248967864321  Jan 11 22:51  @JChrisPires      RT @pop_gen_JED: .@jeshoff1 put more selection pressure on females using genomics. Other, more creative ways. #beef #genomics #PAGXXII
+422229302327795712  Jan 11 22:51  @JChrisPires      RT @tanghaibao: Ed Buckler: TASSEL reference based GBS pipeline: discovery and production pipeline. Good agreement between GBS and SNP chip #PAGXXII
+422229489267908610  Jan 11 22:52  @JChrisPires      RT @kseniakrasileva: Grasses have different polysaccharide composition than dicots (arabidopsis) #PAGXXII #barley
+422230291420168192  Jan 11 22:55  @KTInvasion       .@dr_k_lo Ask @zevkronenberg for more info on GPAT #PAGXXII
+422230328778846208  Jan 11 22:55  @kbradnam         Colleague Alan Rose is speaking tomorrow at #PAGXXII, 2:10. 'Using Introns to Increase Gene Expression'. http://cl.ly/2M360p0a2t1G
+422233339270283264  Jan 11 23:07  @JChrisPires      #PAGXXII Tweets (over 600!) for Saturday 11January2014 at: http://sfy.co/fZWW #storify #pagxxii
+422233346304126976  Jan 11 23:07  @JChrisPires      @kbradnam @KTInvasion @JChrisPires You've been quoted in my #Storify story "#PAGXXII Tweets - Saturday 11January2014" http://sfy.co/fZWW
+422233346312503296  Jan 11 23:07  @JChrisPires      @KSUBioinforCore @2footgiraffe You've been quoted in my #Storify story "#PAGXXII Tweets - Saturday 11January2014" http://sfy.co/fZWW
+422233968302227457  Jan 11 23:09  @JChrisPires      If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+422234193842565122  Jan 11 23:10  @assemblathon     RT @hutchins_e: "@noituloveand: #MaSuRCA assembler: http://www.genome.umd.edu/masurca.html #pagxxii for the 22 GBP pine genome @evilsmaug
+422234283722293248  Jan 11 23:11  @assemblathon     RT @Genohub: Pine reference genome assembly provided by the PineRefSeq project: http://pinegenome.org/pinerefseq #PAGXXII
+422234649490767872  Jan 11 23:12  @2footgiraffe     RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+422235107097722880  Jan 11 23:14  @JChrisPires      RT @Genohub: Pine reference genome assembly provided by the PineRefSeq project: http://pinegenome.org/pinerefseq #PAGXXII
+422235618018856960  Jan 11 23:16  @iowensis         RT @danmaclean: Adaptree http://adaptree.sites.olt.ubc.ca/ #PAGXXII
+422236553025306624  Jan 11 23:20  @JenJaDi          “@GenomeAlberta: RT @assemblathon: #PAGXXII is the hashtag to be following right now.” A new adventure for me. #worldofgenomes
+422237220305530880  Jan 11 23:22  @JChrisPires      RT @JenJaDi: “@GenomeAlberta: RT @assemblathon: #PAGXXII is the hashtag to be following right now.” A new adventure for me. #worldofgenomes
+422237268514832384  Jan 11 23:23  @JChrisPires      RT @kbradnam: Colleague Alan Rose is speaking tomorrow at #PAGXXII, 2:10. 'Using Introns to Increase Gene Expression'. http://cl.ly/2M360p0a2t1G
+422237353105555456  Jan 11 23:23  @kinsu08          RT @kbradnam: Colleague Alan Rose is speaking tomorrow at #PAGXXII, 2:10. 'Using Introns to Increase Gene Expression'. http://cl.ly/2M360p0a2t1G
+422241182530281472  Jan 11 23:38  @pop_gen_JED      RT @JChrisPires: #PAGXXII Tweets (over 600!) for Saturday 11January2014 at: http://sfy.co/fZWW #storify #pagxxii
+422242009303109632  Jan 11 23:41  @d_greenshields   RT @tanghaibao: Kenneth MaNally: IRRI Field scanner has multispectral reflectance, ultrasonic canopy ht and other high-throughput phenotype sensors #PAGXXII
+422244129620254720  Jan 11 23:50  @hwb333           Looking forward to starting Sunday morning with Plant Cytogenetics workshop. #PAGXXII
+422245094465351681  Jan 11 23:54  @SBGenomics       Many thanks to @GenomeCanada for hosting a wonderful event. Great way to start #PAGXXII
+422246274042048512  Jan 11 23:58  @PhilippBayer     RT @assemblathon: #PAGXXII is the hashtag to be following right now.
+422247272814899200  Jan 12 00:02  @razibkhan        RT @assemblathon: #PAGXXII is the hashtag to be following right now.
+422247391861821440  Jan 12 00:03  @razibkhan        RT @jrossibarra: Ed Buckler: aim to predict phenotypic consequence of every bp. #PAGXXII
+422247403777847296  Jan 12 00:03  @razibkhan        RT @jrossibarra: Buckler showing little overlap (<<50%) with read mapping between aligners in maize. Genetic assignment approaches can solve. #PAGXXII
+422247433909698560  Jan 12 00:03  @razibkhan        RT @pop_gen_JED: JD genomic selection requires *New* breeding programs. Need to help #beef producers realize this #PAGXXII
+422247449109864448  Jan 12 00:03  @razibkhan        RT @tanghaibao: Matthew Hufford: highland adaptations through introgression from wild relative. HAPMIX - admixed chromosomes models as mosaics #PAGXXII
+422247577308766208  Jan 12 00:04  @razibkhan        RT @pop_gen_JED: BH looking at runs of homozygosity to predict Ne. Length determines number of gens ago for this Ne #PAGXXII
+422250670620561408  Jan 12 00:16  @bioscribe        RT @PAGmeeting: Scientific and research attendees - stop by the #PAGXXII #PressRoom to meet with journal and news media – tomorrow @ 12pm.
+422251027916533761  Jan 12 00:17  @jono_powellAU    RT @kbradnam: Colleague Alan Rose is speaking tomorrow at #PAGXXII, 2:10. 'Using Introns to Increase Gene Expression'. http://cl.ly/2M360p0a2t1G
+422252318193487872  Jan 12 00:22  @devRpaudel       RT @globalrust: David Marshall, @USDA_ARS Everyone has to take a part in stewardship: breeders, farmers, agronomists and the consumer #PAGXXII
+422257592761450497  Jan 12 00:43  @tamelakim        the place to be @CourtyardSD lobby is filled with #PAGXXII folks great conversations left and right #inspiring
+422258363326410752  Jan 12 00:46  @jono_powellAU    1st day down at PAG and I am exhausted! Awesome sessions! Tomorrow is going to require coffee... #caffeine_is_my_friend #PAGXXII
+422263581548109824  Jan 12 01:07  @Greger_Larson    There is only one person live tweeting #PAGXXII, and that person is @JChrisPires. Enjoying suitably socal January weather & Pires tweets.
+422264367502344192  Jan 12 01:10  @AgroBioDiverse   RT @tanghaibao: Kenneth McNally: existing rice portals, MSU, RAP-DB, BGI-RIS, PlantGDB, Gramene. We need Rice Information Portal, however not "RIP" #PAGXXII
+422264417133539329  Jan 12 01:10  @AgroBioDiverse   RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+422264596238729216  Jan 12 01:11  @AgroBioDiverse   RT @VirginiaGewin: Several projects are underway to accelerate identification and use valuable alleles from crop wild relatives, Rieseberg #PAGXXII
+422265330979708928  Jan 12 01:14  @romero_jose_r    Great, im reach the PAGXXII, thanks a lot Delta Airline, for lost my baggage. :p
+422268494743609344  Jan 12 01:27  @lucventurini     RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+422273386190888960  Jan 12 01:46  @drhansdd         RT @SBGenomics: Many thanks to @GenomeCanada for hosting a wonderful event. Great way to start #PAGXXII
+422275426523041793  Jan 12 01:54  @GenomeBC         Thanks for coming! RT @SBGenomics: Many thanks to @GenomeCanada for hosting a wonderful event. Great way to start #PAGXXII
+422275496814981120  Jan 12 01:54  @GenomeBC         RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+422275633226321920  Jan 12 01:55  @GenomeBC         RT @PAGmeeting: Scientific and research attendees - stop by the #PAGXXII #PressRoom to meet with journal and news media – tomorrow @ 12pm.
+422275987934834688  Jan 12 01:56  @healthorder      RT @PAGmeeting: Scientific and research attendees - stop by the #PAGXXII #PressRoom to meet with journal and news media – tomorrow @ 12pm.
+422276496569688065  Jan 12 01:58  @GenomeBC         Thanks for coming! RT @foodimprover: Great connector event hosted by @GenomeCanada happening right now in Tiki pavilion at #PAGXXII
+422277045154893824  Jan 12 02:01  @gxr              Slides for my #PAGXXII talk tomorrow are online @SlideShare: http://www.slideshare.net/gxxr/rnaseq-based-genome-annotation-with-mgenengs-and-mitie #mGene #MiTie
+422288102422765568  Jan 12 02:45  @ClaireBSPP       RT @plantscience: Jim Beynon @WarwickLifeSci speaking at #PAGXXII about PRESTA - Plant Responses to Environmental STress in Arabidopsis http://bit.ly/19YVzxL
+422291301074493440  Jan 12 02:57  @Fish_Genomics    RT @JChrisPires: MB: Did 9-way whole #genome multiple alignment and PhastCons to find CNA in Haudry et al 2013 @Nature #Genetics 45: 891 #Brassica #PAGXXII
+422294374408790016  Jan 12 03:09  @SCIHorticulture  RT @plantscience: Using the open source ISA metadata tracking tools concept http://isa-tools.org/ for crop phenotype data discussed by Hanna Cweik #PAGXXII
+422294606718730240  Jan 12 03:10  @SCIHorticulture  RT @plantscience: Transnational infrastructure for plant genomic science "transPlant" project being discussed at #PAGXXII http://bit.ly/1ag8Uwg
+422295264423337984  Jan 12 03:13  @SCIHorticulture  RT @plantscience: Cyril Pommier #PAGXXII  GnpIS: an information system to integrate genetic and genomic data from plants and fungi http://1.usa.gov/1ewO7t4
+422295290063093760  Jan 12 03:13  @SCIHorticulture  RT @plantscience: Environment and Phenotype Information System Ephesis from URGI being discussed by Cyril Pommier #PAGXXII http://bit.ly/1ewPlV6
+422295524579233792  Jan 12 03:14  @SCIHorticulture  RT @plantscience: Jim Beynon @WarwickLifeSci speaking at #PAGXXII about PRESTA - Plant Responses to Environmental STress in Arabidopsis http://bit.ly/19YVzxL
+422296258494337024  Jan 12 03:17  @AgroBioDiverse   RT @plantscience: Using the open source ISA metadata tracking tools concept http://isa-tools.org/ for crop phenotype data discussed by Hanna Cweik #PAGXXII
+422301683562328064  Jan 12 03:39  @nilsonflim       RT @GenomeBiology: Robert Sullivan: extracellular microvesicles secreted in the epididymal lumen vary in protein composition along the epididymis #PAGXXII
+422304034608148480  Jan 12 03:48  @MariSmits        RT @fstrozzi: Last speaker Dirkjan Schokker from Wageningen U talking about the interplay between the #microbiome and the gene expr of the host #PAGXXII
+422306219429462016  Jan 12 03:57  @Ensemily         RT @ewanbirney: @dzerbino talking about the @ensembl's regulation build at #PAGXXII - integrating Chip-seq (TF and Histone), DNaseI, TF binding site
+422306587072806912  Jan 12 03:58  @ensembl          RT @ewanbirney: @dzerbino talking about the @ensembl's regulation build at #PAGXXII - integrating Chip-seq (TF and Histone), DNaseI, TF binding site
+422314084592517121  Jan 12 04:28  @RussellofKBio    "@PAGmeeting: Welcome to #PAGXXII ! Please join us for a coffee break in the Atlas Foyer, 9:30 - 10:30 am."check out kbiosystems booth
+422314573795196928  Jan 12 04:30  @RussellofKBio    "@PAGmeeting: Scientific and research attendees - stop by the #PAGXXII #PressRoom to meet with journal and news media – and kbio pr too
+422327756798451713  Jan 12 05:22  @rmwhitford       RT @GenomeBiology: Blake Meyers: grass genomes have much higher numbers of phasiRNA compared with Arabidopsis #PAGXXII
+422334937019080704  Jan 12 05:51  @rnomics          #PAGXXII Tweets - Saturday 11January2014 (with images, tweets) · JChrisPires · Storify:  storify.c... http://bit.ly/1denBEo
+422336904441638912  Jan 12 05:58  @RBuntingMBA      @FlowMetric on its way to #PAGXXII in San Diego!  Stop by booth 230 to see us!
+422337709063942144  Jan 12 06:02  @isugif           RT @tanghaibao: Ed Buckler: TASSEL reference based GBS pipeline: discovery and production pipeline. Good agreement between GBS and SNP chip #PAGXXII
+422337759269752832  Jan 12 06:02  @isugif           RT @kseniakrasileva: Grasses have different polysaccharide composition than dicots (arabidopsis) #PAGXXII #barley
+422337898919129089  Jan 12 06:02  @isugif           RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+422342022377504770  Jan 12 06:19  @AgroBioDiverse   RT @DJ_de_Koning: James Kijas on selection sweeps in sheep. #PAGXXII new chip with 600K+ SNP
+422354678752358400  Jan 12 07:09  @abhimans         RT @JChrisPires: YJ: grass, banana, palm share a WGD per OrthoMCL of genes in sequenced monocot genomes #PAGXXII
+422354889193181185  Jan 12 07:10  @abhimans         RT @hutchins_e: gene annotation in fungi - using #CEGMA for QC and training ab initio gene predictions #PAGXXII @hyphaltip
+422355339908874240  Jan 12 07:12  @abhimans         RT @KristaTernus: Not all bugs in the rumen are culturable or known. Ruminomics assembled metagenome and found 42% of ORFs had no known match. #PAGXXII
+422360841561063424  Jan 12 07:34  @VaillancourtLab  RT @kbradnam: Colleague Alan Rose is speaking tomorrow at #PAGXXII, 2:10. 'Using Introns to Increase Gene Expression'. http://cl.ly/2M360p0a2t1G
+422360944849612800  Jan 12 07:34  @taylorlabsoton   RT @KTInvasion: Gail Taylor: Plants adapting to high CO2? Fewer stomata on modern olive lvs than those from king Tut's funeral wreath. #sweetdata #PAGXXII
+422363705876045824  Jan 12 07:45  @VaillancourtLab  RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+422363862910771200  Jan 12 07:46  @VaillancourtLab  RT @kseniakrasileva: Grasses have different polysaccharide composition than dicots (arabidopsis) #PAGXXII #barley
+422363913800269824  Jan 12 07:46  @VaillancourtLab  RT @tanghaibao: Andy Paterson: Panels of 20 diverse sorghum lines and make BC1F4 NAM to study drought resilience in locally-adapted backgrounds #PAGXXII
+422368372106346496  Jan 12 08:04  @VaillancourtLab  RT @jrossibarra: Fun watching former pdoc @mbhufford on adaptation in teosinte and highland maize landraces #PAGXXII http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003477
+422368837216919552  Jan 12 08:05  @VaillancourtLab  RT @globalrust: Learning today that Lr34 provides durable protection against 4 pathogens #peytonmanningofRgenes #PAGXXII
+422370242036113409  Jan 12 08:11  @markgijzen       Interested in #epigenetics, DNA methylation and virulence in plant pathogens? See poster 819 at #PAGXXII http://pag14.mapyourshow.com/5_0/sessions/sessiondetails.cfm?ScheduledSessionID=18A8CBCD
+422370643124817920  Jan 12 08:13  @kdpru            #PAGXXII come hear this mornings talk by A.Souvorov on NCBI RefSeq genome annotation improvements using  RNAseq and TSA #genediscovery
+422371954759589889  Jan 12 08:18  @vaccandgenes     RT @markgijzen: Interested in #epigenetics, DNA methylation and virulence in plant pathogens? See poster 819 at #PAGXXII http://pag14.mapyourshow.com/5_0/sessions/sessiondetails.cfm?ScheduledSessionID=18A8CBCD
+422373026316173312  Jan 12 08:22  @SandyKnapp       RT @VirginiaGewin: Most of the increased yields of Green Revolution occurred during a period of atypical climate stability, Graham King #PAGXXII
+422373453728342016  Jan 12 08:24  @KamounLab        RT @markgijzen: Interested in #epigenetics, DNA methylation and virulence in plant pathogens? See poster 819 at #PAGXXII http://pag14.mapyourshow.com/5_0/sessions/sessiondetails.cfm?ScheduledSessionID=18A8CBCD
+422373784885399552  Jan 12 08:25  @AgroBioDiverse   RT @VirginiaGewin: Most of the increased yields of Green Revolution occurred during a period of atypical climate stability, Graham King #PAGXXII
+422375008632340480  Jan 12 08:30  @PAGmeeting       Good Morning San Diego! Breakfast today at #PAGXXII will be 7:00 - 8:00 am in the Golden Foyer.
+422375096167055361  Jan 12 08:30  @infoecho         RT @JChrisPires: #PAGXXII Tweets (over 600!) for Saturday 11January2014 at: http://sfy.co/fZWW #storify #pagxxii
+422375873833353217  Jan 12 08:33  @davidrieff       RT @VirginiaGewin: Most of the increased yields of Green Revolution occurred during a period of atypical climate stability, Graham King #PAGXXII
+422376189961830400  Jan 12 08:35  @infoecho         RT @gxr: Slides for my #PAGXXII talk tomorrow are online @SlideShare: http://www.slideshare.net/gxxr/rnaseq-based-genome-annotation-with-mgenengs-and-mitie #mGene #MiTie
+422376431285317632  Jan 12 08:36  @JohnGerrath      RT @KTInvasion: AB: grape diversification 28 mya. Divergence of Eurasian/N American grape 11 mya. Hypothesis: started in N A, spread to Europe #PAGXXII
+422378813159256064  Jan 12 08:45  @JoseDinneny      RT @rubenrellan: "Tales from the glowing trenches" Tomorrow 8 AM at the #PAGXXII Plant Phenotypes workshop. Root phenotyping @JoseDinneny lab style.
+422378912166195200  Jan 12 08:45  @NucDiv           RT @gxr: Slides for my #PAGXXII talk tomorrow are online @SlideShare: http://www.slideshare.net/gxxr/rnaseq-based-genome-annotation-with-mgenengs-and-mitie #mGene #MiTie
+422379347505197056  Jan 12 08:47  @PacBio           RT @JChrisPires: #PAGXXII Tweets (over 600!) for Saturday 11January2014 at: http://sfy.co/fZWW #storify #pagxxii
+422383452336693248  Jan 12 09:03  @KamounLab        RT @JChrisPires: #PAGXXII Tweets (over 600!) for Saturday 11January2014 at: http://sfy.co/fZWW #storify #pagxxii
+422384313930240001  Jan 12 09:07  @iPlantCollab     RT @markgijzen: Interested in #epigenetics, DNA methylation and virulence in plant pathogens? See poster 819 at #PAGXXII http://pag14.mapyourshow.com/5_0/sessions/sessiondetails.cfm?ScheduledSessionID=18A8CBCD
+422384435988664321  Jan 12 09:07  @iPlantCollab     RT @kdpru: #PAGXXII come hear this mornings talk by A.Souvorov on NCBI RefSeq genome annotation improvements using  RNAseq and TSA #genediscovery
+422386245159768064  Jan 12 09:15  @jpummil          RT @hutchins_e: "@noituloveand: #MaSuRCA assembler: http://www.genome.umd.edu/masurca.html #pagxxii for the 22 GBP pine genome @evilsmaug
+422388857632333824  Jan 12 09:25  @Gay_Coings       Palmiers dans la brume. #SanDiego #PAGXXII http://t.co/UES3MTE8yX
+422389164345020416  Jan 12 09:26  @MariaLuluT       RT @Gay_Coings: Palmiers dans la brume. #SanDiego #PAGXXII http://t.co/UES3MTE8yX
+422389776776302592  Jan 12 09:29  @MariaLuluT       Come see the Palm Genomics and Genetics workshop this afternoon from 1:30 to 4:10 at Towne #PAGXXII
+422389785311723521  Jan 12 09:29  @moorejh          @JChrisPires Thanks for all your awesome tweets from #PAGXXII - fun to see what is being presented.
+422390137608486913  Jan 12 09:30  @Quartzy          Pick up your breakfast, and then come by the exhibit hall to pick up your free Networking Cards at #pagXXII http://ow.ly/sqI3d
+422391904043425792  Jan 12 09:37  @MaurissaB23      I've got my chai tea latte in hand and ready for Day 2 of #PAGXXII #PressRoom. Doors are open.
+422394751095033857  Jan 12 09:48  @JChrisPires      I have permission from all the speakers at Comparative #Genomics session to tweet their talks #PAGXXII
+422394902744686592  Jan 12 09:49  @sandiego411      RT @Gay_Coings: Palmiers dans la brume. #SanDiego #PAGXXII http://t.co/UES3MTE8yX
+422395555973570560  Jan 12 09:52  @John_B_Cole      Ready for the cow/goat/sheep session this morning at #PAGXXII 
+422395662257250304  Jan 12 09:52  @JChrisPires      James Schnable (JS) @szintri is first speaker "Comparisons of Multiple Independent Evolutionary Origins of C4 photosynthesis" #PAGXXII
+422396205944291328  Jan 12 09:54  @AgroBioDiverse   RT @JChrisPires: James Schnable (JS) @szintri is first speaker "Comparisons of Multiple Independent Evolutionary Origins of C4 photosynthesis" #PAGXXII
+422396291440578561  Jan 12 09:54  @GenomeBiology    Looking forward to day two at #PAGXXII
+422396379906846720  Jan 12 09:55  @danmaclean       RT @JChrisPires: James Schnable (JS) @szintri is first speaker "Comparisons of Multiple Independent Evolutionary Origins of C4 photosynthesis" #PAGXXII
+422396861949804544  Jan 12 09:57  @John_B_Cole      The #pagxxii  badges need to have much bigger names on them for us blind folk.
+422397959871807488  Jan 12 10:01  @KeyGeneInfo      Do you want to reach the market faster with competitive varieties? Visit our workshop tomorrow at #PAGXXII http://keygene.com/events/
+422398006151741441  Jan 12 10:01  @pop_gen_JED      Stayed up a little later last night socializing. Hopefully it doesn't affect my #PAGXXII tweeting performance!
+422398249668861953  Jan 12 10:02  @VaillancourtLab  RT @MariaLuluT: Come see the Palm Genomics and Genetics workshop this afternoon from 1:30 to 4:10 at Towne #PAGXXII
+422398433346207748  Jan 12 10:03  @bentpetersen     RT @assemblathon: #PAGXXII is the hashtag to be following right now.
+422398888322949120  Jan 12 10:05  @pop_gen_JED      RT @GenomeBiology: Looking forward to day two at #PAGXXII
+422399009630990336  Jan 12 10:05  @bentpetersen     Twitter is amazing. Sitting at a bike in the gym, sweating my December fat off, while following a conference #PAGXXII
+422399267383160832  Jan 12 10:06  @KristaTernus     RT @gxr: Slides for my #PAGXXII talk tomorrow are online @SlideShare: http://www.slideshare.net/gxxr/rnaseq-based-genome-annotation-with-mgenengs-and-mitie #mGene #MiTie
+422399552348364802  Jan 12 10:07  @pop_gen_JED      JS goat community using Illumina, 454, and PacBio data to create new assembly, planning on generating 70X of PacBio #genome #PAGXXII
+422399586439667712  Jan 12 10:08  @jcorn427         Another beautiful day @ #PAGXXII too bad everything I want to see is happening at the same time. Anyone have a time turner?
+422399618194751488  Jan 12 10:08  @JChrisPires      JS: C4 #photsynthesis has "embarrassing number of independent origins" - dozens of times just in grassses #Evolution #PAGXXII @szintri
+422399886508576768  Jan 12 10:09  @JChrisPires      JS: 22-24 independent origins of C4 in grasses alone (Edwards et al. 2011) - so what genes involved, how regulated, where from? #PAGXXII
+422400278931845120  Jan 12 10:10  @drhansdd         Batley canola, rotating blackleg resist genes across years reduces possibility of pathogen to adapt #PAGXXII
+422400311433506816  Jan 12 10:10  @JChrisPires      JS: Only 2 "phylogenetic bio-reps" in current grasses sequenced, we want all 22, use #comparative #genomics vs. BLAST - Use #CoGE #PAGXXII
+422400415754235905  Jan 12 10:11  @JChrisPires      RT @pop_gen_JED: JS goat community using Illumina, 454, and PacBio data to create new assembly, planning on generating 70X of PacBio #genome #PAGXXII
+422400427296956416  Jan 12 10:11  @hutchins_e       @jcorn427 my thoughts exactly! There are 3 places I want to be at once during the 10:30 session. #PAGXXII
+422400432695033857  Jan 12 10:11  @pop_gen_JED      JSayre goat ADAPTmap project to identify adaptations to worldwide climates #PAGXXII
+422400451175141377  Jan 12 10:11  @JChrisPires      RT @bentpetersen: Twitter is amazing. Sitting at a bike in the gym, sweating my December fat off, while following a conference #PAGXXII
+422400488428957696  Jan 12 10:11  @JChrisPires      RT @pop_gen_JED: Stayed up a little later last night socializing. Hopefully it doesn't affect my #PAGXXII tweeting performance!
+422400532217466880  Jan 12 10:11  @JChrisPires      RT @GenomeBiology: Looking forward to day two at #PAGXXII
+422400604082688001  Jan 12 10:12  @JChrisPires      RT @MaurissaB23: I've got my chai tea latte in hand and ready for Day 2 of #PAGXXII #PressRoom. Doors are open.
+422400783309488128  Jan 12 10:12  @John_B_Cole      We need high coverage #pacbio data for a new reference Holstein. #pagxxii 
+422400821813186560  Jan 12 10:12  @JChrisPires      RT @hwb333: Looking forward to starting Sunday morning with Plant Cytogenetics workshop. #PAGXXII
+422400995851632640  Jan 12 10:13  @kseniakrasileva  RT @JChrisPires: #PAGXXII Tweets (over 600!) for Saturday 11January2014 at: http://sfy.co/fZWW #storify #pagxxii
+422401035240361984  Jan 12 10:13  @pop_gen_JED      JSayre planning on using landscape approaches to look at adaptation. Mecular and geo-spatial data fully integrated in database #PAGXXII
+422401115582648320  Jan 12 10:14  @ensembl          RT @JChrisPires: @samseaver using gene trees by @ensembl and not just BLAST for #plant #metabolic #networks http://gramene.org @argonne #PAGXXII
+422401591790948352  Jan 12 10:16  @JChrisPires      JS: if u have 200 #gene expression data sets; how visualize? co-expression hairball? spreadsheet? No, Use #qTeller! #PAGXXII @szintri
+422401656366858240  Jan 12 10:16  @bentpetersen     @Sandratjeuh Totally agree, I but would have liked to be at #PAGXXII instead of sitting here :-) Are you attending the conference?
+422401660845977600  Jan 12 10:16  @danmaclean       http://qteller.com mentioned as modified expression tool #pagxxII
+422401746569162752  Jan 12 10:16  @fstrozzi         IGGC: ADAPTMap to study goats variation using also satellite info to add climate data. Project is run by Alessandra Stella @PTPLodi #PAGXXII
+422402112396349440  Jan 12 10:18  @JChrisPires      JS: I can not tweet about "Gene X" soon to be patented (and called Gene X) on powerpoiont with redacted blacked out areas : ) #PAGXXII
+422402170500026368  Jan 12 10:18  @danmaclean       RT @JChrisPires: JS: I can not tweet about "Gene X" soon to be patented (and called Gene X) on powerpoiont with redacted blacked out areas : ) #PAGXXII
+422402363559641088  Jan 12 10:19  @UMNPlantPath     #UMN Plant Path Prof Nevin Young "Exploring Nodulation thru Genome-Wide Association Studies of Medicago" NOW in Pacific Salon 1 #PAGXXII
+422402461270167552  Jan 12 10:19  @SahaSurya        #NGS RT @Genohub: Pine reference genome #assembly provided by the PineRefSeq project: http://bit.ly/1j1ffDZ #PAGXXII
+422402684075769856  Jan 12 10:20  @danmaclean       RT @SahaSurya: #NGS RT @Genohub: Pine reference genome #assembly provided by the PineRefSeq project: http://bit.ly/1j1ffDZ #PAGXXII
+422402727134523392  Jan 12 10:20  @JChrisPires      JS: ruh-roh, soon-to-be patented gene X is orthologous to... gene Y ... (advisor tells u 3 days before he wants to patent gene) #PAGXXII
+422402740568850432  Jan 12 10:20  @pop_gen_JED      RT @fstrozzi: IGGC: ADAPTMap to study goats variation using also satellite info to add climate data. Project is run by Alessandra Stella @PTPLodi #PAGXXII
+422402887587606528  Jan 12 10:21  @laurastephen     RT @pop_gen_JED: JSayre planning on using landscape approaches to look at adaptation. Mecular and geo-spatial data fully integrated in database #PAGXXII
+422403000234045440  Jan 12 10:21  @gregbaute        @szintri patent pending Gene X, Y and Z involvement in C4 photosynthesis. #PAGXXII Actually easier to follow than some gene names.
+422403159277858818  Jan 12 10:22  @DocDer           RT @JChrisPires: JS: I can not tweet about "Gene X" soon to be patented (and called Gene X) on powerpoiont with redacted blacked out areas : ) #PAGXXII
+422403206048538624  Jan 12 10:22  @DocDer           RT @JChrisPires: JS: ruh-roh, soon-to-be patented gene X is orthologous to... gene Y ... (advisor tells u 3 days before he wants to patent gene) #PAGXXII
+422403207633981440  Jan 12 10:22  @danmaclean       RT @gregbaute: @szintri patent pending Gene X, Y and Z involvement in C4 PS. #PAGXXII Actually easier to follow than some gene names. -  YES
+422403385522782209  Jan 12 10:23  @JChrisPires      JS @szintri talk at #PAGXXII looks like a powerpoint that has blacked out redacted parts like a de-classified govt doc
+422403497342926849  Jan 12 10:23  @SahaSurya        Hope more ppl do the same MT @gxr: Slides for my #PAGXXII talk tomorrow are online @SlideShare: http://bit.ly/1j1fE9p #annotation #RNAseq
+422403499339419648  Jan 12 10:23  @pop_gen_JED      Up next in cattle/sheep session @BertrandServin discussing selection signatures #PAGXXII
+422403660019400704  Jan 12 10:24  @GuiomeNicolas    RT @SahaSurya: #NGS RT @Genohub: Pine reference genome #assembly provided by the PineRefSeq project: http://bit.ly/1j1ffDZ #PAGXXII
+422403675697324033  Jan 12 10:24  @Jordi_E_F        At #PAGXXII @BertrandServin is presenting results on selection signatures in sheep and cattle
+422403694806585344  Jan 12 10:24  @danmaclean       RT @danmaclean: C4 Photosynthesis comparative genomics talk given by @szintri , btw #PAGXXII
+422403769075134464  Jan 12 10:24  @JChrisPires      JS: summary: two closely related species with same functional C4 photosynthesis done by genes diverged 50 mya #PAGXXII
+422403869222920194  Jan 12 10:25  @PTPLodi          RT @fstrozzi: IGGC: ADAPTMap to study goats variation using also satellite info to add climate data. Project is run by Alessandra Stella @PTPLodi #PAGXXII
+422404044728983552  Jan 12 10:25  @JChrisPires      JS: sequencing key phylogenetically placed grass #genome with @JGI and up to 11 of 22 origins with transcriptomes #PAGXXII @washjd @szintri
+422404167513030656  Jan 12 10:26  @noituloveand     Kay Hodgins kicks off the morning on molecular #evolution and gene expression in lodgepole pine and interior spruce at #pagxxii
+422404218880684032  Jan 12 10:26  @JChrisPires      RT @danmaclean: RT @danmaclean: C4 Photosynthesis comparative genomics talk given by @szintri , btw #PAGXXII
+422404240800108544  Jan 12 10:26  @JChrisPires      RT @Jordi_E_F: At #PAGXXII @BertrandServin is presenting results on selection signatures in sheep and cattle
+422404299952750592  Jan 12 10:26  @PAGmeeting       RT @JChrisPires: #PAGXXII Tweets (over 600!) for Saturday 11January2014 at: http://sfy.co/fZWW #storify #pagxxii
+422404309846745088  Jan 12 10:26  @JChrisPires      RT @danmaclean: RT @gregbaute: @szintri patent pending Gene X, Y and Z involvement in C4 PS. #PAGXXII Actually easier to follow than some gene names. -  YES
+422404348757286912  Jan 12 10:26  @JChrisPires      RT @gregbaute: @szintri patent pending Gene X, Y and Z involvement in C4 photosynthesis. #PAGXXII Actually easier to follow than some gene names.
+422404431947124736  Jan 12 10:27  @UMNPlantPath     #UMN Plant Path talk TODAY “Genome-Wide Assoc of Drought Stress & Biomass Traits w HapMap SNPs in Medicago” 11:30am Golden Ballroom #PAGXXII
+422404479812509696  Jan 12 10:27  @uribe_convers    RT @JChrisPires: JS: summary: two closely related species with same functional C4 photosynthesis done by genes diverged 50 mya #PAGXXII
+422404609424904192  Jan 12 10:28  @ewanbirney       @bertoverduin showing off the new google like search on @ensembl in the @emblebi tutorial in California room #PAGXXII
+422404691310305280  Jan 12 10:28  @pop_gen_JED      BS discussing Fst, Bayescan, and FLK/hapFLK. FLK & hapFLK account for evolutionary tree #PAGXXII
+422404697673449472  Jan 12 10:28  @AgroBioDiverse   RT @danmaclean: #PAGXXII Luke Evans describing cool pipeline for id’ing loci under pos selection for environmental adaptive trait from reseq in populus.
+422404703377305601  Jan 12 10:28  @John_B_Cole      I see a lot more #macbookpro here that Windows laptops. Interesting. #PAGXXII
+422404789222141952  Jan 12 10:28  @JChrisPires      Katrien M. Devos on "using comparative genomics of grasses"; foxtail millet #genome done by both @doe_jgi and #BGI #PAGXXII
+422404961951969282  Jan 12 10:29  @UMNPlantPath     #UMN research: “Ascertaining Co-Expression Networks of Homeobox Genes in Maize Shoot Apical Meristem” 5:40pm TODAY Pacific Salon 6 #PAGXXII
+422405194345746433  Jan 12 10:30  @danmaclean       RT @JChrisPires: Katrien M. Devos on "using comparative genomics of grasses"; foxtail millet #genome done by both @doe_jgi and #BGI #PAGXXII
+422405251136634880  Jan 12 10:30  @bluessherpa      1hour till talk 2 @ #PAGXXII!  Telling our success in old and new ways for WSMV and TriMV resistance in wheat!!! #fellerslab
+422405279695634433  Jan 12 10:30  @JChrisPires      RT @pop_gen_JED: BS discussing Fst, Bayescan, and FLK/hapFLK. FLK & hapFLK account for evolutionary tree #PAGXXII
+422405323597418497  Jan 12 10:30  @UMNPlantPath     #UMN research: “High-Resolution Landscape of Meiotic Recombination Hotspots in Maize” 4:40pm TODAY Pacific Salon 1 #PAGXXII
+422405362214400000  Jan 12 10:31  @pop_gen_JED      BS grouped 74 sheep breeds based on geography and genetics. Removed admixed & breeds that went through severe bottlenecks #PAGXXII
+422405462940606464  Jan 12 10:31  @JChrisPires      RT @UMNPlantPath: #UMN research: “High-Resolution Landscape of Meiotic Recombination Hotspots in Maize” 4:40pm TODAY Pacific Salon 1 #PAGXXII
+422405479122206720  Jan 12 10:31  @JChrisPires      RT @pop_gen_JED: BS grouped 74 sheep breeds based on geography and genetics. Removed admixed & breeds that went through severe bottlenecks #PAGXXII
+422405515327832064  Jan 12 10:31  @mkunt4           RT @UMNPlantPath: #UMN Plant Path talk TODAY “Genome-Wide Assoc of Drought Stress & Biomass Traits w HapMap SNPs in Medicago” 11:30am Golden Ballroom #PAGXXII
+422405527335739392  Jan 12 10:31  @JChrisPires      RT @UMNPlantPath: #UMN research: “Ascertaining Co-Expression Networks of Homeobox Genes in Maize Shoot Apical Meristem” 5:40pm TODAY Pacific Salon 6 #PAGXXII
+422405535762104320  Jan 12 10:31  @noituloveand     @John_B_Cole Then all remains right with the world at #pagxxii  ;-)
+422405547996889088  Jan 12 10:31  @JChrisPires      RT @John_B_Cole: I see a lot more #macbookpro here that Windows laptops. Interesting. #PAGXXII
+422405587473682432  Jan 12 10:31  @UMNPlantPath     #UMN research: “Genomic Selection in the Horse” 4:20pm TODAY Pacific Salon 3 #PAGXXII
+422405699243479040  Jan 12 10:32  @dynamiterice     Sue Wessler will be presenting a plenary at #PAGXXII on Ping/mPing transposon in Rice & some results from our project http://www.intlpag.org/2014/program/plenary-lectures/167-sue-wessler
+422405864725573632  Jan 12 10:33  @hyphaltip        RT @dynamiterice: Sue Wessler will be presenting a plenary at #PAGXXII on Ping/mPing transposon in Rice & some results from our project http://www.intlpag.org/2014/program/plenary-lectures/167-sue-wessler
+422405965661499393  Jan 12 10:33  @pop_gen_JED      BS hapFLK gives cleaner peaks than FLK. Nice selection signature near myostatin in Texel sheep, as expected #PAGXXII
+422406240174485504  Jan 12 10:34  @UMNPlantPath     #UMMorris research: “Transcriptome Dynamics of the Dormancy-Growth Transition in Douglas-Fir Needles” 1:50pm TODAY Sunrise Room #PAGXXII
+422406347603189760  Jan 12 10:34  @JChrisPires      Katrien Devos (KD) "most of you not old enough to know what a RFLP based genetic map" (1998 comparions of #rice & foxtail millet) #PAGXXII
+422406417207676928  Jan 12 10:35  @jrossibarra      Devos claims much of the audience too young to remember RFLPs. I’m officially old now, I guess. #PAGXXII
+422406436757307392  Jan 12 10:35  @JChrisPires      RT @pop_gen_JED: BS hapFLK gives cleaner peaks than FLK. Nice selection signature near myostatin in Texel sheep, as expected #PAGXXII
+422406454545358848  Jan 12 10:35  @JChrisPires      RT @dynamiterice: Sue Wessler will be presenting a plenary at #PAGXXII on Ping/mPing transposon in Rice & some results from our project http://www.intlpag.org/2014/program/plenary-lectures/167-sue-wessler
+422406509876625408  Jan 12 10:35  @noituloveand     KH: rocking WCGNA #pagxxii
+422406528260247552  Jan 12 10:35  @jcorn427         @ensembl really like the new ability to view bam files in the genome browser! #PAGXXII
+422406817860182016  Jan 12 10:36  @noituloveand     OrthoMCL seems popular at #pagxxii - did they resolve their historically high FP rate?  No one’s mentioned post-eval.
+422406897119920128  Jan 12 10:37  @pop_gen_JED      BS Fariela et al preprint on bioarXiv, 55 recent signatures and 23 ancient signatures #PAGXXII
+422407061956083712  Jan 12 10:37  @pop_gen_JED      BS see selection at PLAG1 (stature gene) in cattle #PAGXXII
+422407112887513088  Jan 12 10:37  @JChrisPires      RT @pop_gen_JED: BS Fariela et al preprint on bioarXiv, 55 recent signatures and 23 ancient signatures #PAGXXII
+422407124329590784  Jan 12 10:38  @melletang        RT @JChrisPires: If you have been following #PAGXXII on Twitter, I just pulled all 660+ tweets for today and archived on @Storify see http://sfy.co/fZWW
+422407338893389824  Jan 12 10:38  @KTInvasion       @PAGmeeting I am having a problem with the app. Schedule details won't load. Now I don't know where to go! #PAGXXII
+422407528878596096  Jan 12 10:39  @BioMickWatson    You're probably not doing metagenomics http://wp.me/p1PnkE-87 relevant to some at #PAGXXII
+422407650165288960  Jan 12 10:40  @JChrisPires      For #PAGXXII junkies on comparative #genomics - From The Scientist @edyong209 on #Amborella #Genome http://shar.es/9ske1
+422407840037212161  Jan 12 10:40  @oystergen_es     In Ensembl workshop at #PAGXXII watching great demos + just learned they host oyster data / browser http://metazoa.ensembl.org/Crassostrea_gigas/Info/Index
+422407919825473536  Jan 12 10:41  @JChrisPires      KD: switchgrass and foxtail millet have lineage specific inversions and shared chromosomal rearrangements #QueenOfCirclePlots #PAGXXII
+422407921432285184  Jan 12 10:41  @UMNPlantPath     RT @JChrisPires: For #PAGXXII junkies on comparative #genomics - From The Scientist @edyong209 on #Amborella #Genome http://shar.es/9ske1
+422408077485162496  Jan 12 10:41  @noituloveand     Arm wrestling starts at noon RT @BioMickWatson: You're probably not doing metagenomics http://wp.me/p1PnkE-87 relevant to some at #PAGXXII
+422408104282947584  Jan 12 10:41  @RalphGenomicus   Agreed! RT @BioMickWatson: You're probably not doing metagenomics http://wp.me/p1PnkE-87 relevant to some at #PAGXXII
+422408137916694528  Jan 12 10:42  @SahaSurya        RT @JChrisPires: JS: if u have 200 #gene expression data sets; how visualize? co-expression hairball? spreadsheet? No, Use #qTeller! #PAGXXII @szintri
+422408309627293696  Jan 12 10:42  @JChrisPires      For all the kids out there in #PAGXXII ,  speaker Katrien Devos published first "circle plots" for comparative #genomics of grasses
+422408389839183873  Jan 12 10:43  @JChrisPires      RT @oystergen_es: In Ensembl workshop at #PAGXXII watching great demos + just learned they host oyster data / browser http://metazoa.ensembl.org/Crassostrea_gigas/Info/Index
+422408440078553088  Jan 12 10:43  @JChrisPires      RT @noituloveand: Arm wrestling starts at noon RT @BioMickWatson: You're probably not doing metagenomics http://wp.me/p1PnkE-87 relevant to some at #PAGXXII
+422408777740988416  Jan 12 10:44  @pop_gen_JED      BS causal mutations for many selective sweeps appear to be in regulatory elements. Need #AgENCODE #PAGXXII
+422408827795800064  Jan 12 10:44  @infoecho         RT @pop_gen_JED: JS goat community using Illumina, 454, and PacBio data to create new assembly, planning on generating 70X of PacBio #genome #PAGXXII
+422408963292811264  Jan 12 10:45  @BioMickWatson    RT @pop_gen_JED: JS goat community using Illumina, 454, and PacBio data to create new assembly, planning on generating 70X of PacBio #genome #PAGXXII
+422409074785804288  Jan 12 10:45  @JChrisPires      KD: colinearity of #grass #genomes with foxtail millet, pearl millet, sorghum, and others among chromosomes, BACs, and genes #PAGXXII
+422409242432536577  Jan 12 10:46  @AgroBioDiverse   RT @pop_gen_JED: BS grouped 74 sheep breeds based on geography and genetics. Removed admixed & breeds that went through severe bottlenecks #PAGXXII
+422409253798699008  Jan 12 10:46  @pop_gen_JED      BS can use any kinship matrix in hapFLK, could use kinship from TreeMix to account for admixture #PAGXXII
+422409362980626432  Jan 12 10:46  @nextgenseek      RT @SahaSurya: Hope more ppl do the same MT @gxr: Slides for my #PAGXXII talk tomorrow are online @SlideShare: http://bit.ly/1j1fE9p #annotation #RNAseq
+422409442936635392  Jan 12 10:47  @JChrisPires      For #PAGXXII The Tree of Life: Worth a look: AA #Microbiology report on the #human #microbiome http://phylogenomics.blogspot.com/2014/01/worth-look-american-academy-of.html?spref=tw%20%E2%80%A6
+422409748147740672  Jan 12 10:48  @JChrisPires      KD summary - foxtail millet #genome assembled with 29K genes - stay tuned ! @doe_jgi #PAGXXII
+422409964921958401  Jan 12 10:49  @GenomeBiology    Katrien Devos: gene content conservation is higher between switchgrass and foxtail millet compared with switchgrass and sorghum #PAGXXII
+422410030399225856  Jan 12 10:49  @tanghaibao       Janine Sherrier: Tnt1 mutant resources is a retrotransposon library accumulate Tnt1 copies over generation, now 10-100 ins/line #PAGXXII
+422410434965037056  Jan 12 10:51  @JChrisPires      Victor Albert (VA) on #Utricularia bladderwort #genome : an asterid like #Mimulus & #tomato (most plant genomes are rosids) #PAGXXII
+422410480712306688  Jan 12 10:51  @Jordi_E_F        RT @pop_gen_JED: BS Fariela et al preprint on bioarXiv, 55 recent signatures and 23 ancient signatures #PAGXXII
+422410830349496320  Jan 12 10:52  @JChrisPires      VA: Despite small 82 Mb Utricularia genome, is is a paleo-hexaploid in comparison to grape (also a paleo-hexaploid) #PAGXXII
+422411054451146752  Jan 12 10:53  @JChrisPires      VA: So small 82 Mb Utricularia genome has two rounds of paleo-hexaploid in comparison to Amborella (VA co-author there also) #PAGXXII
+422411458526195712  Jan 12 10:55  @JChrisPires      VA: can we obtain independent support for deletion model from stochastic analysis of orthogroup information? #PAGXXII
+422411602755739648  Jan 12 10:55  @DocDer           RT @BioMickWatson: You're probably not doing metagenomics http://wp.me/p1PnkE-87 relevant to some at #PAGXXII
+422411636226289667  Jan 12 10:55  @jrossibarra      My talk from yesterday’s maize workshop at #PAGXXII http://www.slideshare.net/jrossibarra/deleterious-alleles-in-maize-for-pagxxii
+422411710209982464  Jan 12 10:56  @AgroBioDiverse   RT @jrossibarra: My talk from yesterday’s maize workshop at #PAGXXII http://www.slideshare.net/jrossibarra/deleterious-alleles-in-maize-for-pagxxii
+422411776299245568  Jan 12 10:56  @guamfr           Hi #PAGXXII
+422411871971336192  Jan 12 10:56  @JChrisPires      VA: adaptive evolution? Compare 5 core eudicot #genomes: Utricularia Mimulus tomato #Arabidopsis & #Grape - Use #CoGE @CoGeUpdates #PAGXXII
+422411956197142529  Jan 12 10:57  @jesusToast       Why does #PAGXXII website say regular registration is from Nov 2-Jan 10 when they beging charging the on-site rate on Jan 10?
+422412090624585728  Jan 12 10:57  @SallyNAitken     A decade ago PAG talks emphasized new technologies - now so much more biology and hypothesis testing facilitated by genomic tools #PAGXXII
+422412144542359553  Jan 12 10:57  @JChrisPires      VA: OrthoMCL found 17234 orthogroups among 5 eudicot, used BadiRate analysis of gain/death in likelihood framework and chronogram #PAGXXII
+422412147369328640  Jan 12 10:57  @mwilsonsayres    RT @jrossibarra: My talk from yesterday’s maize workshop at #PAGXXII http://www.slideshare.net/jrossibarra/deleterious-alleles-in-maize-for-pagxxii
+422412350159716354  Jan 12 10:58  @nextgenseek      RT @jrossibarra: My talk from yesterday’s maize workshop at #PAGXXII http://www.slideshare.net/jrossibarra/deleterious-alleles-in-maize-for-pagxxii
+422412390697693184  Jan 12 10:58  @BaxterTwi        RT @jrossibarra: My talk from yesterday’s maize workshop at #PAGXXII http://www.slideshare.net/jrossibarra/deleterious-alleles-in-maize-for-pagxxii
+422412457294823424  Jan 12 10:59  @John_B_Cole      The discussion of FLK is interesting, but I still think we spend too much time worrying about P values. #PAGXXII #statedherewithoutproof
+422412494951288832  Jan 12 10:59  @szintri          RT @JChrisPires: JS: if u have 200 #gene expression data sets; how visualize? co-expression hairball? spreadsheet? No, Use #qTeller! #PAGXXII @szintri
