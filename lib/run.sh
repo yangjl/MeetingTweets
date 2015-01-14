@@ -1,1 +1,1 @@
-t search all -ldn 20000 'PAGXXIII' | cat - data/pag2015.txt | sort | uniq | grep -v ^ID > data/pag2015.txt
+t search all -ldn 3000 'PAGXXIII' | cat - data/pag2015.txt | sort | uniq | grep -v ^ID > data/pag2015.txt
