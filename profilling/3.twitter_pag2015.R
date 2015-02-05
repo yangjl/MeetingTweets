@@ -8,6 +8,10 @@ source("lib/TweetSearch.R")
 TweetSearch(hashtag="#PAGXXIII", num=3000, output="data/pag2015.txt")
 
 ## Go to the analysis directory
+## need to edit the script
 setwd("results/")
+twitterchivePlots(filename="../data/pag2015.txt", term="#PAGXXIII", mydate="2015-01-10")
 twitterchivePlots(filename="../data/pag2015.txt", term="#PAGXXIII", mydate="2015-01-11")
 twitterchivePlots(filename="../data/pag2015.txt", term="#PAGXXIII", mydate="2015-01-12")
+twitterchivePlots(filename="../data/pag2015.txt", term="#PAGXXIII", mydate="2015-01-13")
+
